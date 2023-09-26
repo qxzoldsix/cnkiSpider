@@ -1,0 +1,702 @@
+_id,index,title,author,resource,time,database
+6512b34436503f54303839df,1,基于Python的沉淀滴定学习软件设计与教学应用,王顺;李伟;赵士举;刘小花;吴璐璐;谢黎霞;宋美荣;李辉,化学教育(中英文),2023-09-18,期刊
+6512b3779ff18c0e2174f5ab,1,基于Python的沉淀滴定学习软件设计与教学应用,王顺;李伟;赵士举;刘小花;吴璐璐;谢黎霞;宋美荣;李辉,化学教育(中英文),2023-09-18,期刊
+6512b3779ff18c0e2174f5ac,2,基于Python的CAN网络数据库管理分析,蓝启亮; 吴光耀; 王帅; 陈聪,汽车实用技术,2023-09-15,期刊
+6512b3779ff18c0e2174f5ad,3,基于Python的CO2/O2氛围下柴油燃烧火焰特征分析        \n        \n网络首发,陈睿哲;刘永峰;王龙;张璐;何旭;宋金瓯,四川大学学报(自然科学版),2023-09-11 09:23,期刊
+6512b3779ff18c0e2174f5ae,4,银行网点财务检查环节中的Python应用,董刚,金融科技时代,2023-09-10,期刊
+6512b3779ff18c0e2174f5af,5,基于Python的风电齿轮箱远程状态监测系统开发与实现,周裕康;胡王平;杨水余;周焕辉;孙荣坤;张志新,工程机械,2023-09-10,期刊
+6512b3779ff18c0e2174f5b0,6,基于“树莓派+5G+Python”的户外实训基地监控系统设计,杨骏; 梁念渝; 邓力夫,现代信息科技,2023-09-10,期刊
+6512b3779ff18c0e2174f5b1,7,人工智能背景下“Python程序设计”课程改革,李莉; 李冬; 杨海迎; 张永萍,现代信息科技,2023-09-10,期刊
+6512b3779ff18c0e2174f5b2,8,基于Python的物理引擎研究圆柱骰子的下落概率,刘鹏飞; 刘鹏宇; 姜永健; 江瑞雪,大学物理实验,2023-08-26,期刊
+6512b3779ff18c0e2174f5b3,9,基于Python和Requests快速获取网页数据的方法研究,姜庆玲; 张樊,现代信息科技,2023-08-25,期刊
+6512b3779ff18c0e2174f5b4,10,基于Python的随机信号分析课程随机数产生实验设计,钟何平; 田振,中国现代教育装备,2023-08-20,期刊
+6512b3779ff18c0e2174f5b5,11,基于“岗课赛证”融通理念的Python程序设计课程“工单式”教学研究,朱金坛,创新创业理论研究与实践,2023-08-10,期刊
+6512b3779ff18c0e2174f5b6,12,基于人工智能技术的Python编程教学实践,张爱华,集成电路应用,2023-08-10,期刊
+6512b3779ff18c0e2174f5b7,13,对海康GigE相机以Python程序连接方法的研究,张雍斌; 李鑫; 顾彬,电子产品世界,2023-08-04,期刊
+6512b3779ff18c0e2174f5b8,14,对欧姆龙PLC使用Python程序连接使用方法的研究,牛凯; 李冰融; 李鑫,电子产品世界,2023-08-04,期刊
+6512b3779ff18c0e2174f5b9,15,Python数据采集软件的设计与应用,余战秋,电子技术,2023-07-20,期刊
+6512b3779ff18c0e2174f5ba,16,基于ArcGIS Python的灌区一张图绘制自动化工作流,许克平,湖南水利水电,2023-07-20,期刊
+6512b3779ff18c0e2174f5bb,17,基于Python技术的半监督文本语义分类方法研究,孙川钘; 朱镕申; 张凌云,计算机仿真,2023-07-15,期刊
+6512b3779ff18c0e2174f5bc,18,基于Python爬虫的二手房信息数据可视化分析,马腾; 余粟,软件,2023-07-15,期刊
+6512b3779ff18c0e2174f5bd,19,Python语言在审计流程优化中的应用研究,崔轩齐,软件,2023-07-15,期刊
+6512b3779ff18c0e2174f5be,20,基于Python的面向对象弹塑性有限元方法实现与数值模拟        \n        \n网络首发,李恒辉; 肖映雄,系统仿真学报,2023-07-12 13:01,期刊
+6512b3779ff18c0e2174f5bf,21,浅析Python在油气勘探开发中的应用与发展,顾晓东;梁琰;李静叶;张希晨;刘晓波;杜长江,天然气与石油,2023-07-10 16:03,期刊
+6512b3779ff18c0e2174f5c0,22,基于Django框架的Python课程在线教育平台设计,王冬冬,信息与电脑(理论版),2023-06-25,期刊
+6512b3779ff18c0e2174f5c1,23,基于区块链的成人教育Python语言程序设计课程线上教学平台设计,王影,信息与电脑(理论版),2023-06-25,期刊
+6512b3779ff18c0e2174f5c2,24,基于微信小程序的成人教育Python语言程序设计课程考试平台设计,张洋,信息与电脑(理论版),2023-06-25,期刊
+6512b3779ff18c0e2174f5c3,25,基于Python的城市生活垃圾收运物流系统仿真与优化,张矢宇; 王自由; 褚宇航,兰州大学学报(自然科学版),2023-06-15,期刊
+6512b3779ff18c0e2174f5c4,26,基于Python语言数据服务平台设计与实现,陈小敏; 苏健光; 欧文辉,信息与电脑(理论版),2023-06-10,期刊
+6512b3779ff18c0e2174f5c5,27,基于Python的居民用电特征搜索引擎设计,朱宇飞; 王莉; 周嘉磊,信息与电脑(理论版),2023-05-25,期刊
+6512b3779ff18c0e2174f5c6,28,基于Python的中医药数据挖掘中标准数据集的加工-以高血压治疗数据为例,田颖;郭栋;彭伟;范晓艳;张晨岳;朱俊潼,中国循证心血管医学杂志,2023-05-20,期刊
+6512b3779ff18c0e2174f5c7,29,基于Python语言的中介与调节效应运演,钟志强; 高红,电脑与电信,2023-05-10,期刊
+6512b3779ff18c0e2174f5c8,30,基于Python的PN结物理特性实验数据处理方法        \n        \n网络首发,李奇;马晓波;曹志杰;马玲;杜全忠;撒强,宁夏大学学报(自然科学版),2023-05-06 10:13,期刊
+6512b3779ff18c0e2174f5c9,31,基于Python的聚焦网络爬虫的设计与实现,唐文军; 隆承志,计算机与数字工程,2023-04-20,期刊
+6512b3779ff18c0e2174f5ca,32,基于Python的贵州省退耕还林数据质检方法,梁建方; 曹霸,陕西林业科技,2023-04-15,期刊
+6512b3779ff18c0e2174f5cb,33,基于PBL的软件工程专业Python程序设计课程案例式实验教学,朱文强; 熊碧舟,中国教育技术装备,2023-01-25,期刊
+6512b3779ff18c0e2174f5cc,34,基于Python语言图形用户界面设计的研究,周春吟,科学技术创新,2022-11-30,期刊
+6512b3779ff18c0e2174f5cd,35,基于Python增量国情监测地表覆盖更新与工具实现,李美珍; 魏智东; 黄瑞贞,测绘与空间地理信息,2022-11-25,期刊
+6512b3779ff18c0e2174f5ce,36,基于Python的化工流程优化系统开发        \n        \n网络首发,魏晓彤; 岳金彩; 杨安明; 周东健; 郑世清,化学工业与工程,2022-11-23 11:10,期刊
+6512b3779ff18c0e2174f5cf,37,基于Python的线性回归案例分析,何小年; 段凤华,微型电脑应用,2022-11-20,期刊
+6512b3779ff18c0e2174f5d0,38,依托Python爬虫技术和数据处理分析能力提升履职能力的探索,王文选,金融科技时代,2022-11-10,期刊
+6512b3779ff18c0e2174f5d1,39,基于Python爬虫网站数据分析系统设计与实现,杨孟姣; 杜棋东,计算机时代,2022-11-10,期刊
+6512b3779ff18c0e2174f5d2,40,基于Python与Ansoft的混合式直线力电机参数化设计系统研究,王子旋;黎向锋;肖一秦鹏;胡嘉琨;徐礼林;左敦稳,微特电机,2022-11-10,期刊
+6512b3779ff18c0e2174f5d3,41,基于Python语言的装载机流场仿真参数计算拟合工具开发,孟令超; 常立壮; 李晓枫; 张朝永,工程机械,2022-11-10,期刊
+6512b3779ff18c0e2174f5d4,42,人工智能背景下“Python语言程序设计”课程改革探索,盛冠群;赵美林;刘忠途;郑悦林;姜艳静;汤婧,科技风,2022-10-30,期刊
+6512b3779ff18c0e2174f5d5,43,Python在食品生物化学实验教学应用上的初探——以食品中蛋白浓度测定为例,曹诗林;赖昕珏;郝锦亨;陈慧;郑少鹏;袁志涛;罗佳伟;陈胤熹;余洁婷,广东化工,2022-10-27,期刊
+6512b3779ff18c0e2174f5d6,44,“Python程序设计”课程思政教学探索,陈红阳; 何杰; 何盈盈,工业技术与职业教育,2022-10-25,期刊
+6512b3779ff18c0e2174f5d7,45,广义估计方程与混合线性模型在Python中的实现,焦奎壮;马煦晰;马小茜;刘朝屹;张青;马露,医学新知,2022-10-25,期刊
+6512b3779ff18c0e2174f5d8,46,Python语言在SEGY炮集数据质控中的应用,王磊,物探装备,2022-10-25,期刊
+6512b3779ff18c0e2174f5d9,47,Python数据采集软件的设计与应用,覃勇铖,电子技术,2022-10-20,期刊
+6512b3779ff18c0e2174f5da,48,基于Python的多结电池仿真及其应用,郭宏亮; 薛超; 孙强; 刘如彬,电源技术,2022-10-20,期刊
+6512b3779ff18c0e2174f5db,49,基于Python的半导体激光二极管仿真技术研究,熊煜; 张靖; 李小冰; 唐佳; 吴婧,半导体光电,2022-10-18 11:16,期刊
+6512b3779ff18c0e2174f5dc,50,基于Python的N2类商用车制动距离计算的线性回归优化,韩彦潇; 何果; 李青章,汽车实用技术,2022-10-15,期刊
+6512b37c9ff18c0e2174f5dd,51,基于Python的运城旅游数据可视化分析,张乐; 孙怡芳,计算机时代,2022-10-11,期刊
+6512b37c9ff18c0e2174f5de,52,Python在反洗钱执法检查中的应用探讨——以景德镇市反洗钱执法检查为例,乐明德; 汪锋,金融科技时代,2022-10-10,期刊
+6512b37c9ff18c0e2174f5df,53,基于Python的信息采集与数据处理分析,黄紫青,集成电路应用,2022-10-10,期刊
+6512b37c9ff18c0e2174f5e0,54,基于OpenCV-Python和树莓派实现图像数据远程采集,何惠彬; 江亚俊; 肖晓晖,福建农机,2022-09-30,期刊
+6512b37c9ff18c0e2174f5e1,55,基于Python的BIM模型构件库信息系统,贺卫兵; 熊雪阳; 张天宇; 纪仁善; 徐照,建筑施工,2022-09-25,期刊
+6512b37c9ff18c0e2174f5e2,56,基于Python语言的数据表文件批量处理技术,王景,信息技术与信息化,2022-09-25,期刊
+6512b37c9ff18c0e2174f5e3,57,基于Python软件的零序方向数字式继电保护仿真,夏寅宇; 丁煜飞; 汪缪凡; 齐沛锋,电工技术,2022-09-25,期刊
+6512b37c9ff18c0e2174f5e4,58,Python在概率论与数理统计教学中的应用案例研究,王永娟; 姜喜春; 谢兵兵,黑河学院学报,2022-09-25,期刊
+6512b37c9ff18c0e2174f5e5,59,基于ArcGIS Python的MXD文档批量裁剪方法研究,刘文军; 黄瑶,江西测绘,2022-09-25,期刊
+6512b37c9ff18c0e2174f5e6,60,Python语言程序设计全英文线上教学探索,徐红云; 刘欣欣,教育教学论坛,2022-09-21,期刊
+6512b37c9ff18c0e2174f5e7,61,一种基于Python的车道线检测算法分析,戴晶华,电子技术,2022-09-20,期刊
+6512b37c9ff18c0e2174f5e8,62,Python在分析化学实验数据处理中的应用——以铁和铋的络合滴定实验为例,王彦恺; 郭长艳,化学教育(中英文),2022-09-18,期刊
+6512b37c9ff18c0e2174f5e9,63,基于Python编程的IP网设备业务配置自动生成系统开发及应用,梁学如,长江信息通信,2022-09-15,期刊
+6512b37c9ff18c0e2174f5ea,64,基于Python的甲乳外科住院业务数据挖掘分析,唐劲松; 郑维; 毛婷,中国数字医学,2022-09-15,期刊
+6512b37c9ff18c0e2174f5eb,65,基于Python语言的钻井井壁突变失稳机理分析,刘吉敏; 刘元飞; 付晓畅,煤炭科学技术,2022-09-15,期刊
+6512b37c9ff18c0e2174f5ec,66,基于Python的三维风场风玫瑰图绘制方法研究与应用,周积强;魏巍;姚肖萌;王雪妮;李龙艳;杨勇;柳佳俊,气象水文海洋仪器,2022-09-09,期刊
+6512b37c9ff18c0e2174f5ed,67,大数据专业“Python程序设计”课程建设探究,李天格; 许鹏,计算机时代,2022-09-07,期刊
+6512b37c9ff18c0e2174f5ee,68,Python语言程序设计课程教学创新探索,张昱; 陈默; 李封,科教导刊,2022-09-05,期刊
+6512b37c9ff18c0e2174f5ef,69,基于Python的多轴线连杆转向系统数字化平台设计,陈俊; 兰希; 康绍鹏; 强红宾; 刘凯磊,制造技术与机床,2022-08-30,期刊
+6512b37c9ff18c0e2174f5f0,70,基于Python的3D打印计算机辅助制造实验教学,林志伟; 栾丛丛; 王郑拓; 马超虹,实验科学与技术,2022-08-28,期刊
+6512b37c9ff18c0e2174f5f1,71,基于Python的二手车交易分析可视化,周研博; 郑成; 侯惠芳,信息与电脑(理论版),2022-08-25,期刊
+6512b37c9ff18c0e2174f5f2,72,基于Python的武汉二手房信息爬取及分析,姬正骁,信息与电脑(理论版),2022-08-25,期刊
+6512b37c9ff18c0e2174f5f3,73,基于Python技术的校园网搜索引擎的设计分析,李静; 单晴晴,信息与电脑(理论版),2022-08-25,期刊
+6512b37c9ff18c0e2174f5f4,74,面向Python的自适应学习系统知识空间模型构建研究,薛丽芳; 敖志广; 王雪; 郭志,信息与电脑(理论版),2022-08-25,期刊
+6512b37c9ff18c0e2174f5f5,75,基于Python的地表覆盖数据逐级自动缩编,张华剑,地理信息世界,2022-08-24,期刊
+6512b37c9ff18c0e2174f5f6,76,基于Python的高校后勤服务育人体系的构建与评价机制,李廷树,泰州职业技术学院学报,2022-08-20,期刊
+6512b37c9ff18c0e2174f5f7,77,基于Python的含凹坑缺陷蜂窝夹芯结构参数化建模及应用,蒋国庆; 陈万华; 聂徐庆; 张浩; 廖文林,科学技术与工程,2022-08-18,期刊
+6512b37c9ff18c0e2174f5f8,78,职业教育混合课程的建设研究——以“Python语言基础”为例,王圆; 周胜安,职业技术,2022-08-17,期刊
+6512b37c9ff18c0e2174f5f9,79,Python在电路实验数据处理中的应用,赵文来; 杨俊秀; 陈秋妹,电气电子教学学报,2022-08-15,期刊
+6512b37c9ff18c0e2174f5fa,80,基于IPO问题驱动的Python语言教学设计,刘光蓉; 周俊博,武汉轻工大学学报,2022-08-15,期刊
+6512b37c9ff18c0e2174f5fb,81,基于Python和Selenium的智联招聘数据的爬取与分析,张嘉威; 关成斌,软件,2022-08-15,期刊
+6512b37c9ff18c0e2174f5fc,82,基于Python的科技期刊二维码生成/插入/校验一体化解决方案,牛欣悦; 祁丽娟; 方梅,中国科技期刊研究,2022-08-15,期刊
+6512b37c9ff18c0e2174f5fd,83,Python在测试向量的解析和存储中的应用,徐春华,集成电路应用,2022-08-10,期刊
+6512b37c9ff18c0e2174f5fe,84,基于Python语言的好友管理系统的设计,刘秀丽,现代信息科技,2022-08-10,期刊
+6512b37c9ff18c0e2174f5ff,85,基于Python的校园交易平台设计,华厚强; 康佳春,现代计算机,2022-08-10,期刊
+6512b37c9ff18c0e2174f600,86,军队医科院校计算机基础课程设计——以Python程序设计模块为例,王萌; 李东方; 陆江东; 郑奋,电脑与电信,2022-08-10,期刊
+6512b37c9ff18c0e2174f601,87,Python在电子表格中数据比对的应用,司马碧荣; 邓大政; 杨媛,信息与电脑(理论版),2022-08-10,期刊
+6512b37c9ff18c0e2174f602,88,全国青少年Python等级考试试题测评研究,乔璐,计算机时代,2022-08-08,期刊
+6512b37c9ff18c0e2174f603,89,新文科视角下以专业为导向深度融合计算生态Python课程体系建设,李蓉; 周维柏; 梁智斌,计算机时代,2022-08-08,期刊
+6512b37c9ff18c0e2174f604,90,Python语言程序设计课程思政探索,卢俊岭,科教导刊,2022-08-05,期刊
+6512b37c9ff18c0e2174f605,91,基于对分教学法的Python程序设计教学模式探索与实践,陈晓燕,科教导刊,2022-08-05,期刊
+6512b37c9ff18c0e2174f606,92,基于Python的车灯动画效果数据化技术,孙瑜,汽车零部件,2022-07-28,期刊
+6512b37c9ff18c0e2174f607,93,基于大数据+Python的高职毕业生就业价值取向研究,汪岩,工业控制计算机,2022-07-25,期刊
+6512b37c9ff18c0e2174f608,94,《计算机技术基础（Python）》线上线下混合式教学的思与行,赵慧; 倪燃,创新创业理论研究与实践,2022-07-25,期刊
+6512b37c9ff18c0e2174f609,95,高校Python语言程序设计公共课教学改革探索,卢俊岭,科教导刊,2022-07-25,期刊
+6512b37c9ff18c0e2174f60a,96,基于Python的肺结核胸片病灶检测系统设计,夏启铭; 余响全; 韦勇; 肖雪梅,无线互联科技,2022-07-25,期刊
+6512b37c9ff18c0e2174f60b,97,基于案例的Docker课程教学探究——以“Python应用程序容器化”为例,卢春光; 秦惜梦,无线互联科技,2022-07-25,期刊
+6512b37c9ff18c0e2174f60c,98,基于Python旧衣回收系统的设计,张雁涔,信息与电脑(理论版),2022-07-25,期刊
+6512b37c9ff18c0e2174f60d,99,基于Python爬虫技术的网页数据抓取方法,刘萍,信息与电脑(理论版),2022-07-25,期刊
+6512b37c9ff18c0e2174f60e,100,基于Python的“概率论与数理统计”可视化研究,牛晔,信息与电脑(理论版),2022-07-25,期刊
+6512b3819ff18c0e2174f60f,101,基于Python的PPT批量化爬取与邮件自动发送实现,杨红;龚小燕;杨尊富;杨帆;马逸飞;尚亚丽,电子技术,2022-07-20,期刊
+6512b3819ff18c0e2174f610,102,程序设计基础（Python）课程学习现状调查分析及建议,芮雪; 李谨; 陈丽娟,科教文汇,2022-07-15,期刊
+6512b3819ff18c0e2174f611,103,浅谈Python在创伤流行病学数据分析中的应用,陈都; 徐峰,创伤外科杂志,2022-07-15,期刊
+6512b3819ff18c0e2174f612,104,融合理论和实践的Python程序设计课程思政建设,朱友康; 周方; 陈建雄; 吴天乙; 韩伟,科教导刊,2022-07-15,期刊
+6512b3819ff18c0e2174f613,105,Python语言在轮胎带束层后处理分析中的应用,任帅; 张永峰; 张梦洁; 张伟伟,轮胎工业,2022-07-10,期刊
+6512b3819ff18c0e2174f614,106,智能时代项目式学习的设计与实践研究——以Python课程的PBL教学为例,卢海丽; 王彬彬; 高兴苹,河南教育学院学报(自然科学版),2022-06-30,期刊
+6512b3819ff18c0e2174f615,107,基于Python的Abaqus前、后处理GUI插件二次开发与应用,田玉泰,计算机辅助工程,2022-06-29,期刊
+6512b3819ff18c0e2174f616,108,基于Python的混合语言编程及其实现研究,卢绍兵,科技资讯,2022-06-28,期刊
+6512b3819ff18c0e2174f617,109,基于Python技术GA-BP神经网络的变压器故障诊断研究,周文潮; 柴淑颖,变压器,2022-06-25,期刊
+6512b3819ff18c0e2174f618,110,基于Python的生产报表自动生成发送系统的开发及应用,朱明星; 石建明; 胡应权,红水河,2022-06-25,期刊
+6512b3819ff18c0e2174f619,111,基于Python的学生成绩分析和可视化呈现研究,石晓玲; 杨立功,河北软件职业技术学院学报,2022-06-25,期刊
+6512b3819ff18c0e2174f61a,112,Python在闪电监测资料分析中的应用,陈小尘; 谢亚雄; 张伟,电子测试,2022-06-25,期刊
+6512b3819ff18c0e2174f61b,113,基于项目学习的高中信息技术教学实践——以Python语言教学为例,陈苏静,福建教育学院学报,2022-06-25,期刊
+6512b3819ff18c0e2174f61c,114,利用Python编程实现基于EGM2008模型的高程异常计算,吴勇; 常燕敏,地矿测绘,2022-06-25,期刊
+6512b3819ff18c0e2174f61d,115,基于Python语言的瑞利面波频散反演实行方案,吴为治; 娄利; 王鹏; 王宾,物探与化探,2022-06-23 11:06,期刊
+6512b3819ff18c0e2174f61e,116,基于Python的维修工卡自动化编制设计与实现,胡田,航空维修与工程,2022-06-20,期刊
+6512b3819ff18c0e2174f61f,117,基于Python的新浪微博爬虫程序设计与实现,孙握瑜,科技资讯,2022-06-20,期刊
+6512b3819ff18c0e2174f620,118,基于Python的计算机组成原理可视化教学研究,王泽梁; 汪丽华,黄山学院学报,2022-06-20,期刊
+6512b3819ff18c0e2174f621,119,基于Python的混合式英语教学数据融合实施方案,王劼华,科技资讯,2022-06-20,期刊
+6512b3819ff18c0e2174f622,120,基于Python的Apriori算法在超长住院患者信息挖掘中的应用,刘慧悦;杨洋;李国垒;金敏;张静;周柳英,中国病案,2022-06-18,期刊
+6512b3819ff18c0e2174f623,121,基于Python的在线教育数据智能分析应用研究,张人杰; 刘威,湖南邮电职业技术学院学报,2022-06-15,期刊
+6512b3819ff18c0e2174f624,122,“岗课赛证”融通的Python程序设计课程资源开发研究,石彤,湖南邮电职业技术学院学报,2022-06-15,期刊
+6512b3819ff18c0e2174f625,123,基于Python语言的CalculiX与Sap2000前处理接口开发,杜安亮,建筑结构,2022-06-15,期刊
+6512b3819ff18c0e2174f626,124,服务区域大数据产业发展的“Python数据分析”通识课程建设探索——以柳州职业技术学院为例,杨川,柳州职业技术学院学报,2022-06-15,期刊
+6512b3819ff18c0e2174f627,125,基于Python数据分析的高校绩效扣款统计方法,宋东翔; 王怡然; 马伽洛·伦; 袁铭举,软件,2022-06-15,期刊
+6512b3819ff18c0e2174f628,126,基于Python的智慧校园CSV文件的读取方式研究,刘耀钦; 杨新东; 袁承芬,汉江师范学院学报,2022-06-15,期刊
+6512b3819ff18c0e2174f629,127,基于Python的大众点评医疗机构数据爬取与分析,李巧娜; 汪勇,中国科技论文在线精品论文,2022-06-15,期刊
+6512b3819ff18c0e2174f62a,128,基于Python的网页信息数据爬取设计与实现分析,林军,长春工程学院学报(自然科学版),2022-06-15,期刊
+6512b3819ff18c0e2174f62b,129,基于Python的TEQC可视化软件设计及GNSS实验教学应用,卢立果; 吴汤婷,实验技术与管理,2022-06-13 14:32,期刊
+6512b3819ff18c0e2174f62c,130,Python虚拟机本地代码的安全性实证研究,蒋成满;华保健;樊淇梁;朱洪军;徐波;潘志中,计算机科学,2022-06-10,期刊
+6512b3819ff18c0e2174f62d,131,基于Python的蔬菜销售系统设计,张雁涔,无线互联科技,2022-06-10,期刊
+6512b3819ff18c0e2174f62e,132,基于Python的海量日志数据处理应用,刘恋; 洪剑珂; 严格知; 刘云; 雷洲,信息与电脑(理论版),2022-06-10,期刊
+6512b3819ff18c0e2174f62f,133,网络安全下的Python语言教学,成少梅,网络安全技术与应用,2022-06-07,期刊
+6512b3819ff18c0e2174f630,134,产学融通与育教融合的Python程序设计教学改革探索,梁婷婷; 梁肇敏; 邱素贞,广西广播电视大学学报,2022-05-30,期刊
+6512b3819ff18c0e2174f631,135,基于Python的JMAG二次开发在游标型永磁直线同步电机设计中的应用,邹子羽; 卢琴芬,微电机,2022-05-28,期刊
+6512b3819ff18c0e2174f632,136,基于Python的地铁TETRA设备培训模拟器的设计与实现,潘振; 房耀华,铁路通信信号工程技术,2022-05-25,期刊
+6512b3819ff18c0e2174f633,137,Python环境下利用Selenium与JavaScript逆向技术爬虫研究,时春波; 李卫东; 秦丹阳; 张海啸; 吴峥嵘,河南科技,2022-05-25,期刊
+6512b3819ff18c0e2174f634,138,Python在数字图像处理课程教学中的应用探索,李志; 陈入云,创新创业理论研究与实践,2022-05-25,期刊
+6512b3819ff18c0e2174f635,139,基于Python的中国典籍对外翻译传播效果研究——以《孙子兵法》英译本为例,王燕; 邵谧,外国语文,2022-05-25,期刊
+6512b3819ff18c0e2174f636,140,基于Python的网站访问数据可视化方法,刘洋; 胡志高,信息与电脑(理论版),2022-05-25,期刊
+6512b3819ff18c0e2174f637,141,基于Python的埋地钢质管道腐蚀防护系统评价网站开发,陈晨; 易旸,化工自动化及仪表,2022-05-20,期刊
+6512b3819ff18c0e2174f638,142,基于EduCoder的Python程序设计课程教学实践,胡子慧; 杨利华,电子技术,2022-05-20,期刊
+6512b3819ff18c0e2174f639,143,Jupyter Notebook平台在Python教学中的应用,马伟良,数字通信世界,2022-05-20,期刊
+6512b3819ff18c0e2174f63a,144,基于python高级语言程序设计的“金课”建设探讨,宋晓强; 林研; 王开田,农业科技与装备,2022-05-20,期刊
+6512b3819ff18c0e2174f63b,145,基于Python与Tensorflow的交通信号决策系统,朱昭俊; 李雪芹,综合运输,2022-05-15,期刊
+6512b3819ff18c0e2174f63c,146,TPACK架构下医学专业《Python程序设计》课程教学研究——以实现办公自动化（OA）为例,魏晋,办公自动化,2022-05-15,期刊
+6512b3819ff18c0e2174f63d,147,医学院校Python程序设计课程的教学改革研究,魏晋; 郝文延; 王晓云,计算机时代,2022-05-15,期刊
+6512b3819ff18c0e2174f63e,148,基于Python和Matlab的《数字信号处理》教学辅助软件设计,郭琳; 赵睿,长江信息通信,2022-05-15,期刊
+6512b3819ff18c0e2174f63f,149,Python在《数学物理方程》教学中的应用研究,热合买提江·依明,高等数学研究,2022-05-15,期刊
+6512b3819ff18c0e2174f640,150,基于Python的个人所得税分析和筹划,徐长盛; 严丽; 谢瑞玲,财务管理研究,2022-05-10,期刊
+6512b3869ff18c0e2174f641,151,一种使用Python实现IEC61850规约的全自动检测技术,王诗清; 王建伟; 杨斌; 袁广宝,测试技术学报,2022-05-10,期刊
+6512b3869ff18c0e2174f642,152,新工科Python语言程序设计课程教学实践,王思霖,集成电路应用,2022-05-10,期刊
+6512b3869ff18c0e2174f643,153,云点歌系统的Python爬虫设计和实现,罗可,现代计算机,2022-05-10,期刊
+6512b3869ff18c0e2174f644,154,Python编程技术在线资源课程建设研究,史亚维,现代信息科技,2022-05-10,期刊
+6512b3869ff18c0e2174f645,155,Python在线课程和项目驱动制相结合的教学模式探索,胡文杰; 谢娜,现代信息科技,2022-05-10,期刊
+6512b3869ff18c0e2174f646,156,基于工程教育认证环境下课程大纲的构建——以“Python程序设计”课程为例,林清滢; 朱映辉; 陆锡聪; 商惠华,教育教学论坛,2022-05-04,期刊
+6512b3869ff18c0e2174f647,157,基于Python的微分方程在多领域中的应用,刘双,黑龙江科学,2022-04-28,期刊
+6512b3869ff18c0e2174f648,158,Python工具介入的帕金森病护理干预新模式研究趋势,齐雪; 阮俊斌; 杨颢仪; 葛奕辰,黑龙江科学,2022-04-28,期刊
+6512b3869ff18c0e2174f649,159,Python语言在学生成绩分析与评估中的应用,赵圆圆,石家庄职业技术学院学报,2022-04-28,期刊
+6512b3869ff18c0e2174f64a,160,基于Python编程模拟四极杆质谱中离子的运动,张硕; 方开洪; 王强; 陈亮; 杨坤杰,大学物理实验,2022-04-26,期刊
+6512b3869ff18c0e2174f64b,161,基于Python语言的LTE业务差小区数据处理方法研究,王官云; 任小强,工业控制计算机,2022-04-25,期刊
+6512b3869ff18c0e2174f64c,162,基于Python语言的可视化空间数据库智能查询系统,董玉霞; 苏荣聪,平顶山学院学报,2022-04-25,期刊
+6512b3869ff18c0e2174f64d,163,Python办公自动化对教务办公效率提升的研究,曹梦川,现代信息科技,2022-04-25,期刊
+6512b3869ff18c0e2174f64e,164,Python软件库在大学力学教学中的应用,李晓明,科教文汇,2022-04-21,期刊
+6512b3869ff18c0e2174f64f,165,基于Python的轨道交通安全质量检查问题大数据分析和可视化研究,戴屹立; 张建鹏; 陈鹏; 舒小朋,现代城市轨道交通,2022-04-20,期刊
+6512b3869ff18c0e2174f650,166,基于Python的高校网络课程数据分析,李钰; 庄文密,软件导刊,2022-04-15,期刊
+6512b3869ff18c0e2174f651,167,基于Python语言的智能信息化运维管理平台的应用,尹周军,天津冶金,2022-04-15,期刊
+6512b3869ff18c0e2174f652,168,一种基于Python的5G网络数智优化方法,张维利; 曹世君,长江信息通信,2022-04-15,期刊
+6512b3869ff18c0e2174f653,169,基于python的无线资源利用率提升方案探索,翟瑞霞; 段慧成; 王飞; 梁晓燕,长江信息通信,2022-04-15,期刊
+6512b3869ff18c0e2174f654,170,基于Python语言分析《外科正宗》中的轻粉用药规律,杨华; 严建,亚太传统医药,2022-04-13,期刊
+6512b3869ff18c0e2174f655,171,基于Python的产品信息采集与数据处理研究,陆承佳,电脑与信息技术,2022-04-12,期刊
+6512b3869ff18c0e2174f656,172,基于Python爬虫技术抓取台风报文的研究与实现,陈琼莺; 施蔚然; 郑玉兰; 冯招程,电脑与电信,2022-04-10,期刊
+6512b3869ff18c0e2174f657,173,分层教学在线上线下混合式教学中的应用——以“Python编程基础”课程为例,王炳鹏; 高丽; 刘素君; 山青青,无线互联科技,2022-04-10,期刊
+6512b3869ff18c0e2174f658,174,Python中基于字典的大写金额转换算法的实现,娄七明; 许海成; 孙建洪,红河学院学报,2022-04-08,期刊
+6512b3869ff18c0e2174f659,175,PYTHON在自动控制原理课程仿真中的应用,郭玉祥; 周函; 张庆平; 李彦梅,廊坊师范学院学报(自然科学版),2022-03-31,期刊
+6512b3869ff18c0e2174f65a,176,一款基于Python语言开发的滤光片检定数据处理软件,陈扬; 王以堃,计量与测试技术,2022-03-30,期刊
+6512b3869ff18c0e2174f65b,177,基于Python的“信号与系统”课程教学设计,乔有田,扬州职业大学学报,2022-03-30,期刊
+6512b3869ff18c0e2174f65c,178,基于Python的城市天气数据爬虫程序分析,于学斗; 柏晓钰,办公自动化,2022-03-29,期刊
+6512b3869ff18c0e2174f65d,179,基于python的SCADA与西门子PLC数据读写自动化测试实现,王新月; 王奚; 李航; 张秀明,计算技术与自动化,2022-03-28,期刊
+6512b3869ff18c0e2174f65e,180,基于Python的大数据文档拆分规律研究,丁思蓉; 何静茹; 李真,现代信息科技,2022-03-25,期刊
+6512b3869ff18c0e2174f65f,181,基于疫情数据的Python数据分析课程的教学改革与实践,郭海礁; 侯柏苓; 李银; 宋健,天津职业院校联合学报,2022-03-25,期刊
+6512b3869ff18c0e2174f660,182,Python在项目状态审核管理领域的应用,徐小静,办公自动化,2022-03-15,期刊
+6512b3869ff18c0e2174f661,183,基于Python的SEH漏洞渗透模块实现,刘丹,成都工业学院学报,2022-03-15,期刊
+6512b3869ff18c0e2174f662,184,Python语言视域下网络爬虫系统开发研究,孙自立,软件,2022-03-15,期刊
+6512b3869ff18c0e2174f663,185,基于Python的Excel审核校验工具的设计与实现,袁凯,科学技术创新,2022-03-15,期刊
+6512b3869ff18c0e2174f664,186,纽伯瑞儿童文学奖作品在中国的译介与接受——基于Python的评价话语情感分析,高彬; 杨志文,江苏科技大学学报(社会科学版),2022-03-15,期刊
+6512b3869ff18c0e2174f665,187,基与Python的森林资源监测数据分析与可视化研究,冷鸿天; 杨雨渐; 杨天淼; 张占忠,林业调查规划,2022-03-15,期刊
+6512b3869ff18c0e2174f666,188,三全育人模式下Python课程思政探索,朱哲燕,福建电脑,2022-03-11,期刊
+6512b3869ff18c0e2174f667,189,基于CDIO模式的Python程序设计课程教学实践研究,赵胜楠; 朱立才; 张辉,计算机时代,2022-03-11,期刊
+6512b3869ff18c0e2174f668,190,以职业需求为导向的Python程序设计教学改革研究,张雪莲,计算机时代,2022-03-10,期刊
+6512b3869ff18c0e2174f669,191,突出问题求解能力训练的Python课程设计,于宁; 聂清林,计算机时代,2022-03-10,期刊
+6512b3869ff18c0e2174f66a,192,基于计算思维的Python课程混合式教学实践,郭小磊; 王金虹,集成电路应用,2022-03-10,期刊
+6512b3869ff18c0e2174f66b,193,基于Python语言的大数据智能分析系统设计,黎小花,信息与电脑(理论版),2022-03-10,期刊
+6512b3869ff18c0e2174f66c,194,基于Python的国际学术会议数据分析研究,吕霞; 蔡婷婷; 肖芳,现代信息科技,2022-03-10,期刊
+6512b3869ff18c0e2174f66d,195,基于Python的网络自动化运维,曾爱斌,中国新技术新产品,2022-03-10,期刊
+6512b3869ff18c0e2174f66e,196,基于Python的图书信息搜集与展示研究,孙俊; 李秋月; 赵晨悦,现代信息科技,2022-03-10,期刊
+6512b3869ff18c0e2174f66f,197,基于Python的数据批处理探讨与应用,牛常领; 毕德贇,城市勘测,2022-02-28,期刊
+6512b3869ff18c0e2174f670,198,以OBE为导向的Python语言程序设计实践教学体系建设与研究,杨蕊,信息与电脑(理论版),2022-02-25,期刊
+6512b3869ff18c0e2174f671,199,基于数据预处理的Python课程教学案例设计研究,高望,信息与电脑(理论版),2022-02-25,期刊
+6512b3869ff18c0e2174f672,200,Python在太阳能电池发展中的前景分析,范芯月; 田苗苗; 那洪玲; 韩飞虎,中国高新科技,2022-02-25,期刊
+6512b38b9ff18c0e2174f673,201,Python在物理化学实验数据处理中的应用,任雪峰; 刘霞; 冯莉; 王瑷琪,山东化工,2022-02-23,期刊
+6512b38b9ff18c0e2174f674,202,Python语言程序设计课程中的OBE模式应用,贺国平,电子技术,2022-02-20,期刊
+6512b38b9ff18c0e2174f675,203,利用Python编程高效处理土工试验分项报告方法介绍,徐学锋,勘察科学技术,2022-02-20,期刊
+6512b38b9ff18c0e2174f676,204,Python语言课程的线上线下混合式教学,王淑青; 雷桂斌; 金兰,福建电脑,2022-02-16,期刊
+6512b38b9ff18c0e2174f677,205,基于Python的拉勾网数据爬取与分析,贾宗星; 冯倩,计算机时代,2022-02-15,期刊
+6512b38b9ff18c0e2174f678,206,基于Python的地理空间数据可视化探究,胡楠; 孟宪伟; 王彦超,辽宁科技学院学报,2022-02-15,期刊
+6512b38b9ff18c0e2174f679,207,基于Python的图像压缩技术研究,郑棋,长江信息通信,2022-02-15,期刊
+6512b38b9ff18c0e2174f67a,208,基于Python语言的二阶校正图形交互软件开发分析,杨晓胞,长江信息通信,2022-02-15,期刊
+6512b38b9ff18c0e2174f67b,209,基于Python的大数据公共课教学改革探索,黄锦敬,计算机时代,2022-02-15,期刊
+6512b38b9ff18c0e2174f67c,210,行动导向的Python程序设计思政教学案例研究,王健; 孙彦情,软件导刊,2022-02-15,期刊
+6512b38b9ff18c0e2174f67d,211,基于Python的电磁场仿真实验系统设计,韩帅; 许家华; 张思齐; 文源,山西电子技术,2022-02-15,期刊
+6512b38b9ff18c0e2174f67e,212,基于Python的新浪微博中爬虫程序维护方法,何波,软件,2022-02-15,期刊
+6512b38b9ff18c0e2174f67f,213,基于Python的基坑监测数据管理系统设计与实现,王克; 孙丽敏; 郝旭暾,矿山测量,2022-02-15,期刊
+6512b38b9ff18c0e2174f680,214,基于Python的特殊螺纹接头参数化有限元分析,詹先觉; 左宏志,钢管,2022-02-15,期刊
+6512b38b9ff18c0e2174f681,215,一种基于Python的SDN自动化部署实例,李春平; 张淑荣; 李妍; 陈春柳,电脑与电信,2022-02-10,期刊
+6512b38b9ff18c0e2174f682,216,基于Python检查EAM系统数据规范性,马孝宗; 王雪山,现代信息科技,2022-02-10,期刊
+6512b38b9ff18c0e2174f683,217,AutoMapper: A python tool for accelerating the polymer bonding workflow in LAMMPS,Bone Matthew A.;Howlin Brendan J.;Hamerton Ian;Macquart Terence,Computational Materials Science,2022-02-09,外文期刊
+6512b38b9ff18c0e2174f684,218,人工智能教学如何培养高中生的计算思维?——基于人工智能案例驱动的Python编程教学的实证研究,岳彦龙; 张学军; 梁屿藩,基础教育,2022-02-06,期刊
+6512b38b9ff18c0e2174f685,219,Erratum: Modeling Sensitivities of Energetic Materials using the Python Language and Libraries,Mathieu Didier,"Propellants, Explosives, Pyrotechnics",2022-02-03,外文期刊
+6512b38b9ff18c0e2174f686,220,Faster Python made easier with Cython’s pure Python mode,Serdar Yegulalp,InfoWorld.com,2022-02-02,外文期刊
+6512b38b9ff18c0e2174f687,221,PyComm: Malicious commands detection model for python scripts,Zhou Anmin;Huang Tianyi;Huang Cheng;Li Dunhan;Song Chuangchuang,Journal of Intelligent & Fuzzy Systems,2022-02-02,外文期刊
+6512b38b9ff18c0e2174f688,222,Flaremodel: An open-source Python package for one-zone numerical modelling of synchrotron sources,Dallilar Y.;von Fellenberg S.;Bauboeck M.;de Zeeuw P. T.;Drescher A.;Eisenhauer F.;Genzel R.;Gillessen S.;Habibi M.;Ott T.;Ponti G.;Stadler J.;Straub O.;Widmann F.;Witzel G.;Young A.,Astronomy & Astrophysics,2022-02-01,外文期刊
+6512b38b9ff18c0e2174f689,223,基于Python的茶叶大数据分析平台研发,江进,现代工业经济和信息化,2022-01-30,期刊
+6512b38b9ff18c0e2174f68a,224,基于Python的1∶10000 DLG接边检查工具设计与实现,王海恒; 张向阳; 郭兰勤; 王璐; 何毅,地理空间信息,2022-01-28,期刊
+6512b38b9ff18c0e2174f68b,225,A customized interactive multi-language learning application model using python,Satheesh Meganathan Kumar;Nagaraj Samala;Hemachandran K;Rodriguez Raul V.;Nosrati M.;Millman K.J.;Aivazis M.;Chen C.W.;Koufaris M.;Loewen S.;Crowther D.;Isbell D. R;Kim K.;Maloney J.;Miller Z.F.;Rawal H.;Viberg O.;Gronlund A.;Ahumada Newhart V.;Olson J.S.;Baldwin M.S.;Mankoff J.;Nardi B.;Hayes G.;Janssen C.P.;Donker S.F.;Brumby D.P.;Kun A.L.;Leslie D.;Russell H.;Swift J.S.;Shadiev R.;Reynolds B.L.;Huang Y.M.;Shadiev N.;Wang W.;Laxmisha R.;Wannapipat W.W.;Barnett G.A.;Palmer M.T.;Al deen H.N.;Laubli S.;Castilho S.;Neubig G.;Sennrich R.;Shen Q.;Toral A.;Gouvea E.;Moreno Daniel A.;Reddy A.;Chengalvarayan R.;Thomson D.;Ljolje A.;Ashwell T.;Elam J.R.;Manaswi N.K.;Pathak N.;Papineni K.;Papineni K.;Roukos S.;Ward T.;Zhu W.J.;Berard A.;Pietquin O.;Servan C.;Besacier L.,JIMS8I International Journal of Information Communication and Computing Technolo;gy,2022-01-28,外文期刊
+6512b38b9ff18c0e2174f68c,226,Mining Python fix patterns via analyzing fine-grained source code changes,Yang Yilin;He Tianxing;Feng Yang;Liu Shaoying;Xu Baowen,Empirical Software Engineering,2022-01-28,外文期刊
+6512b38b9ff18c0e2174f68d,227,4 keys to writing modern Python in 2022,Serdar Yegulalp,InfoWorld.com,2022-01-26,外文期刊
+6512b38b9ff18c0e2174f68e,228,基于OpenCV-Python的体育赛事视频检索系统设计,宁倩,信息与电脑(理论版),2022-01-25,期刊
+6512b38b9ff18c0e2174f68f,229,基于Python电子设计竞赛查询系统的设计与实现,刘思云; 吴炜峰,现代计算机,2022-01-25,期刊
+6512b38b9ff18c0e2174f690,230,PyCharge: An open-source Python package for self-consistent electrodynamics simulations of Lorentz oscillators and moving point charges,Filipovich Matthew J.;Hughes Stephen,Computer Physics Communications,2022-01-24,外文期刊
+6512b38b9ff18c0e2174f691,231,Stream-learn — open-source Python library for difficult data stream batch analysis,Ksieniewicz P.;Zyblewski P.,Neurocomputing,2022-01-23,外文期刊
+6512b38b9ff18c0e2174f692,232,Python语言在编程类课程教学中的应用,林金,电子技术,2022-01-20,期刊
+6512b38b9ff18c0e2174f693,233,Python语言的Web开发应用分析,杜继明,数字通信世界,2022-01-20,期刊
+6512b38b9ff18c0e2174f694,234,基于Python语言的文本数据流自适应分类方法,彭文良; 虞燕花,宁夏师范学院学报,2022-01-15,期刊
+6512b38b9ff18c0e2174f695,235,GGCHEMPY: A Pure Python-based Gas-grain Chemical Code for Efficient Simulation of Interstellar Chemistry,Jixing Ge,Research in Astronomy and Astrophysics,2022-01-15,期刊
+6512b38b9ff18c0e2174f696,236,基于Python语言的微磁学模拟中自旋波波形后处理工具,闫健; 钟智勇,磁性材料及器件,2022-01-15,期刊
+6512b38b9ff18c0e2174f697,237,基于计算思维的Python程序设计课程教学探讨,胡尔西代姆·伊米提,软件,2022-01-15,期刊
+6512b38b9ff18c0e2174f698,238,Latte: Cross-framework Python package for evaluation of latent-based generative models,Watcharasupat Karn N.;Lee Junyoung;Lerch Alexander,Software Impacts,2022-01-13,外文期刊
+6512b38b9ff18c0e2174f699,239,MatOpt: A Python Package for Nanomaterials Design Using Discrete Optimization.,Hanselman Christopher L;Yin Xiangyu;Miller David C;Gounaris Chrysanthos E,Journal of chemical information and modeling,2022-01-13,外文期刊
+6512b38b9ff18c0e2174f69a,240,Identification of Novel Microcystins Using High-Resolution MS and MSn with Python Code.,BaliuRodriguez David;Peraino Nicholas J;Premathilaka Sanduni H;Birbeck Johnna A;BaliuRodriguez Tomás;Westrick Judy A;Isailovic Dragan,Environmental science & technology,2022-01-12,外文期刊
+6512b38b9ff18c0e2174f69b,241,Python技术在数据可视化中的应用研究,韦依洋; 吴一凡; 李永远,福建电脑,2022-01-11,期刊
+6512b38b9ff18c0e2174f69c,242,基于计算思维的Python程序设计课程教学实践,贺国平,集成电路应用,2022-01-10,期刊
+6512b38b9ff18c0e2174f69d,243,Python程序设计线上线下混合教学模式研究,贾琼; 高永香,信息与电脑(理论版),2022-01-10,期刊
+6512b38b9ff18c0e2174f69e,244,基于Python语言智慧教学研究与思考,金传洋; 王丽辉; 袁建光,信息与电脑(理论版),2022-01-10,期刊
+6512b38b9ff18c0e2174f69f,245,基于Python的钒钛词库爬虫设计与分析,王霞; 张俊坤; 陈尧; 文科历,无线互联科技,2022-01-10,期刊
+6512b38b9ff18c0e2174f6a0,246,Python在网络运维中的运用研究,杨泽明,无线互联科技,2022-01-10,期刊
+6512b38b9ff18c0e2174f6a1,247,一种高性能的在线Python实验平台的研究,何洪磊,现代信息科技,2022-01-10,期刊
+6512b38b9ff18c0e2174f6a2,248,Polyply; a python suite for facilitating simulations of macromolecules and nanomaterials,Grünewald Fabian;Alessandri Riccardo;Kroon Peter C.;Monticelli Luca;Souza Paulo C. T.;Marrink Siewert J.,Nature Communications,2022-01-10,外文期刊
+6512b38b9ff18c0e2174f6a3,249,"TraderMade Launch Python Development Kit for Forex, CFD and Crypto Data.",,M2 Presswire,2022-01-05,外文期刊
+6512b38b9ff18c0e2174f6a4,250,Python Group Additivity (pGrAdd) Software for Estimating Species Thermochemical Properties,Wittreich Gerhard R.;Vlachos Dionisios G.,Computer Physics Communications,2022-01-04,外文期刊
+6512b3909ff18c0e2174f6a5,251,PyCO2SYS v1.8: marine carbonate system calculations in Python,Humphreys Matthew P.;Lewis Ernie R.;Sharp Jonathan D.;Pierrot Denis,Geoscientific Model Development,2022-01-04,外文期刊
+6512b3909ff18c0e2174f6a6,252,Python nabs programming language of the year honors,Paul Krill,InfoWorld.com,2022-01-04,外文期刊
+6512b3909ff18c0e2174f6a7,253,PyLlama: A stable and versatile Python toolkit for the electromagnetic modelling of multilayered anisotropic media,Bay Mélanie M.;Vignolini Silvia;Vynck Kevin,Computer Physics Communications,2022-01-03,外文期刊
+6512b3909ff18c0e2174f6a8,254,"Handbook of Regression Modeling in People Analytics: With Examples in R and Python,",Lipovetsky Stan,Technometrics,2022-01-02,外文期刊
+6512b3909ff18c0e2174f6a9,255,"The Names of the Python: Belonging in East Africa, 900 to 1930",de Luna Kathryn M.,Canadian Journal of African Studies / Revue canadienne des études africaines,2022-01-02,外文期刊
+6512b3909ff18c0e2174f6aa,256,Refrapy: A Python program for seismic refraction data analysis,Guedes Victor José Cavalcanti Bezerra;Maciel Susanne Taina Ramalho;Rocha Marcelo Peres,Computers and Geosciences,2022-01-01,外文期刊
+6512b3909ff18c0e2174f6ab,257,Catecholamines are key modulators of ventricular repolarization patterns in the ball python (Python regius).,Boukens Bastiaan J D;Joyce William;Kristensen Ditte Lind;Hooijkaas Ingeborg;Jongejan Aldo;Wang Tobias;Jensen Bjarke,The Journal of general physiology,2022-01-01,外文期刊
+6512b3909ff18c0e2174f6ac,258,py-fmas: A python package for ultrashort optical pulse propagation in terms of forward models for the analytic signal,Melchert O.;Demircan A.,Computer Physics Communications,2022-01-01,外文期刊
+6512b3909ff18c0e2174f6ad,259,Simplify: A Python library for optimizing pruned neural networks,Bragagnolo Andrea;Barbano Carlo Alberto,SoftwareX,2022-01-01,外文期刊
+6512b3909ff18c0e2174f6ae,260,StatMechGlass: Python based software for composition–structure prediction in oxide glasses using statistical mechanics,Bødker Mikkel S.;Wilkinson Collin J.;Mauro John C.;Smedskjaer Morten M.,SoftwareX,2022-01-01,外文期刊
+6512b3909ff18c0e2174f6af,261,VUDENC: Vulnerability Detection with Deep Learning on a Natural Codebase for Python,Wartschinski Laura;Noller Yannic;Vogel Thomas;Kehrer Timo;Grunske Lars,Information and Software Technology,2022-01-01,外文期刊
+6512b3909ff18c0e2174f6b0,262,Symbolic DNN-Tuner: A Python and ProbLog-based system for optimizing Deep Neural Networks hyperparameters,Fraccaroli Michele;Lamma Evelina;Riguzzi Fabrizio,SoftwareX,2022-01-01,外文期刊
+6512b3909ff18c0e2174f6b1,263,PyDDRBG: A Python framework for benchmarking and evaluating static and dynamic multimodal optimization methods,Ahrari Ali;Elsayed Saber;Sarker Ruhul;Essam Daryl;Coello Carlos A. Coello,SoftwareX,2022-01-01,外文期刊
+6512b3909ff18c0e2174f6b2,264,Applying a Python script to predict the geotechnical properties of the Nasiriyah soil,Ali Haneen Mohammed;Shakir Ressol R,IOP Conference Series: Earth and Environmental Science,2022-01-01,外文期刊
+6512b3909ff18c0e2174f6b3,265,"Detection of Ophidiomyces ophidiicola in a Wild Burmese Python (Python bivittatus) in Hong Kong SAR, China",Grioni Alessandro;To Kar Wing;Crow Paul;Rose Jeffreys Liz;Ching Kar Keung;Chu Lai On;Hill Fraser Ian;Chan Hon Ki;Cheung Ka Shing,Journal of Herpetological Medicine and Surgery,2021-12-30,外文期刊
+6512b3909ff18c0e2174f6b4,266,cwepr – a Python package for analysing cw-EPR data focussing on reproducibility and simple usage,Schröder Mirjam;Biskup Till,Journal of Magnetic Resonance,2021-12-29,外文期刊
+6512b3909ff18c0e2174f6b5,267,职业技能大赛视角下教师教学能力提升探索——以Python程序设计课程为例,赵圆圆,石家庄职业技术学院学报,2021-12-28,期刊
+6512b3909ff18c0e2174f6b6,268,"Fast, Cheap, and Turbulent—Global Ocean Modeling With GPU Acceleration in Python",Häfner Dion;Nuterman Roman;Jochum Markus,Journal of Advances in Modeling Earth Systems,2021-12-26,外文期刊
+6512b3909ff18c0e2174f6b7,269,基于Python语言的类C编译器的设计与实现,许高建; 徐浩宇,洛阳理工学院学报(自然科学版),2021-12-25,期刊
+6512b3909ff18c0e2174f6b8,270,基于Web的Python语言程序设计课程实训教学系统设计,李婧,信息与电脑(理论版),2021-12-25,期刊
+6512b3909ff18c0e2174f6b9,271,基于多平台的Python程序设计混合教学模式研究,李爽; 樊秋红,信息与电脑(理论版),2021-12-25,期刊
+6512b3909ff18c0e2174f6ba,272,Pyg4ometry: A Python library for the creation of Monte Carlo radiation transport physical geometries,Walker S.D.;Abramov A.;Nevay L.J.;Shields W.;Boogert S.T.,Computer Physics Communications,2021-12-24,外文期刊
+6512b3909ff18c0e2174f6bb,273,HydroPy (v1.0): a new global hydrology model written in Python,Stacke Tobias;Hagemann Stefan,Geoscientific Model Development,2021-12-23,外文期刊
+6512b3909ff18c0e2174f6bc,274,Easy asteroid phase curve fitting for the Python ecosystem: Pyedra,Colazo M.;Cabral J.B.;Chalela M.;Sánchez B.O.,Astronomy and Computing,2021-12-22,外文期刊
+6512b3909ff18c0e2174f6bd,275,bayesint: A Python Package for Calculating Bayesian Credible Intervals of Ratios of Beta Distributions,Bekker Nielsen Dunbar M.;Finnie Thomas J. R.,Journal of Open Research Software,2021-12-21,外文期刊
+6512b3909ff18c0e2174f6be,276,人工智能背景下我国python教学研究的路径分析,韩帅帅,电子质量,2021-12-20,期刊
+6512b3909ff18c0e2174f6bf,277,基于计算思维的Python教学实践,贾凌,电子技术,2021-12-20,期刊
+6512b3909ff18c0e2174f6c0,278,基于Python和GIS信息的南海气象雷达专题图自动制作,韦凯华; 梁伟杰; 韦海宁; 袁宇东,微型电脑应用,2021-12-20,期刊
+6512b3909ff18c0e2174f6c1,279,课程思政视域下计算机公共基础课教学改革路径探索——以Python语言程序设计为例,吴运兵; 阴爱英; 余小燕,中国轻工教育,2021-12-20,期刊
+6512b3909ff18c0e2174f6c2,280,pyKVFinder: an efficient and integrable Python package for biomolecular cavity detection and characterization in data science,Guerra João Victor da Silva;Ribeiro Filho Helder Veras;Jara Gabriel Ernesto;Bortot Leandro Oliveira;Pereira José Geraldo de Carvalho;Lopes de Oliveira Paulo Sérgio,BMC Bioinformatics,2021-12-20,外文期刊
+6512b3909ff18c0e2174f6c3,281,"GuPPy, a Python toolbox for the analysis of fiber photometry data",Sherathiya Venus N.;Schaid Michael D.;Seiler Jillian L.;Lopez Gabriela C.;Lerner Talia N.,Scientific Reports,2021-12-20,外文期刊
+6512b3909ff18c0e2174f6c4,282,xlogit: An open-source Python package for GPU-accelerated estimation of Mixed Logit models,Arteaga Cristian;Park JeeWoong;Beeramoole Prithvi Bhat;Paz Alexander,Journal of Choice Modelling,2021-12-20,外文期刊
+6512b3909ff18c0e2174f6c5,283,Applying Convolutional Neural Networks to Neuroimaging Classification Tasks: A Practical Guide in Python.,Mohamed Moumin A K;Alamri Alexander;Smith Brandon;Uff Christopher,Acta neurochirurgica. Supplement,2021-12-18,外文期刊
+6512b3909ff18c0e2174f6c6,284,培养计算思维导向的高职Python编程课程的教学实践,王炳鹏; 高丽; 刘素君; 山青青,软件,2021-12-15,期刊
+6512b3909ff18c0e2174f6c7,285,基于OBE理念的Python“知识域分层”设计,朱喜娜,软件,2021-12-15,期刊
+6512b3909ff18c0e2174f6c8,286,基于Python的数据表文件处理技术研究,相景丽,山西电子技术,2021-12-15,期刊
+6512b3909ff18c0e2174f6c9,287,基于Python深度学习的图像数据分析,郭沛延; 王中流; 王岩; 兰腾凯,电子测试,2021-12-15,期刊
+6512b3909ff18c0e2174f6ca,288,Numerical Study of Cylindrical Tropical Woods Pyrolysis Using Python Tool,Assoumani Nidhoim;SimoTagne Merlin;KifaniSahban Fatima;Tagne Tagne Ablain;El Marouani Maryam;Obounou Akong Marcel Brice;Rogaume Yann;Girods Pierre;Zoulalian André,Sustainability,2021-12-15,外文期刊
+6512b3909ff18c0e2174f6cb,289,“Pythonで学ぶ実験計画法入門”:書評,日下 一也,材料,2021-12-15,外文期刊
+6512b3909ff18c0e2174f6cc,290,面向Python翻转课堂的图形动画案例库的设计,宋雅娟; 尚鲜连,计算机时代,2021-12-14,期刊
+6512b3909ff18c0e2174f6cd,291,计算思维导向下的Python数据分析教学改革研究,肖卓宇; 黎妍,计算机时代,2021-12-14,期刊
+6512b3909ff18c0e2174f6ce,292,"A novel approach of using shed skins of the green tree python, Morelia viridis, for forensic purposes",Kufnerová Jitka,EUROPEAN JOURNAL OF ENVIRONMENTAL SCIENCES,2021-12-14,外文期刊
+6512b3909ff18c0e2174f6cf,293,prose: a python framework for modular astronomical images processing,Garcia Lionel J;Timmermans Mathilde;Pozuelos Francisco J;Ducrot Elsa;Gillon Michaël;Delrez Laetitia;Wells Robert D;Jehin Emmanuël,Monthly Notices of the Royal Astronomical Society,2021-12-11,外文期刊
+6512b3909ff18c0e2174f6d0,294,Python语言编程教学模式的设计,魏澜轩,集成电路应用,2021-12-10,期刊
+6512b3909ff18c0e2174f6d1,295,基于Python的软件测试自动化平台研究,黄娟,无线互联科技,2021-12-10,期刊
+6512b3909ff18c0e2174f6d2,296,翻转课堂模式下“Python”课程教学资源的建设探索,宋雅娟,无线互联科技,2021-12-10,期刊
+6512b3909ff18c0e2174f6d3,297,大数据时代基于Python的数据可视化研究,蒲云鹏,信息与电脑(理论版),2021-12-10,期刊
+6512b3909ff18c0e2174f6d4,298,Python爬虫技术在水泥厂数据采集中的应用,孟祥伟,水泥,2021-12-10,期刊
+6512b3909ff18c0e2174f6d5,299,新工科背景下Python语言课程教学改革,王春; 肖建于; 沈龙凤; 赵兵,淮北师范大学学报(自然科学版),2021-12-10,期刊
+6512b3909ff18c0e2174f6d6,300,基于Python的汽车CAN总线报文换挡次数统计,李波; 张建; 穆勇勇,汽车工艺师,2021-12-10,期刊
+6512b3969ff18c0e2174f6d7,301,Online System for Power Quality Operational Data Management in Frequency Monitoring Using Python and Grafana,SierraFernández JoseMaría;FlorenciasOliveros Olivia;EspinosaGavira ManuelJesús;GonzálezdelaRosa JuanJosé;AgüeraPérez Agustín;PalomaresSalas JoséCarlos,Energies,2021-12-09,外文期刊
+6512b3969ff18c0e2174f6d8,302,基于Python的网络爬虫系统的设计与实现,冯艳茹,电脑与信息技术,2021-12-08,期刊
+6512b3969ff18c0e2174f6d9,303,MFDFA: Efficient multifractal detrended fluctuation analysis in python,Rydin Gorjão Leonardo;Hassan Galib;Kurths Jürgen;Witthaut Dirk,Computer Physics Communications,2021-12-08,外文期刊
+6512b3969ff18c0e2174f6da,304,Quantifying the Interpretation Overhead of Python,Zhang Qiang;Xu Lei;Zhang Xiangyu;Xu Baowen,Science of Computer Programming,2021-12-08,外文期刊
+6512b3969ff18c0e2174f6db,305,基于Python分析中老年人群多重慢病患者现状的研究,张朋; 张露文; 郭改枝,内蒙古大学学报(自然科学版),2021-12-07 09:58,期刊
+6512b3969ff18c0e2174f6dc,306,Effects of the Problem-Oriented Learning Model on Middle School Students’ Computational Thinking Skills in a Python Course,Bai Hongquan;Wang Xin;Zhao Li,Frontiers in Psychology,2021-12-07,外文期刊
+6512b3969ff18c0e2174f6dd,307,Python power-up: new image tool visualizes complex data,Perkel Jeffrey M.,Nature,2021-12-06,外文期刊
+6512b3969ff18c0e2174f6de,308,"reString: an open-source Python software to perform automatic functional enrichment retrieval, results aggregation and data visualization",Manzini Stefano;Busnelli Marco;Colombo Alice;Franchi Elsa;Grossano Pasquale;Chiesa Giulia,Scientific Reports,2021-12-06,外文期刊
+6512b3969ff18c0e2174f6df,309,A Python library for exploratory data analysis on twitter data based on tokens and aggregated origin-destination information,Graff Mario;Moctezuma Daniela;Miranda Jiménez Sabino;Tellez Eric S.,Computers & Geosciences,2021-12-04,外文期刊
+6512b3969ff18c0e2174f6e0,310,基于python的社交情感分析注意力模型,薛涛,智能计算机与应用,2021-12-01,期刊
+6512b3969ff18c0e2174f6e1,311,pyFIRI — A free and open source Python software package of the non-auroral Earth’s lower ionosphere,Zolotov Oleg;Romanovskaya Yulia;Knyazeva Maria,SoftwareX,2021-12-01,外文期刊
+6512b3969ff18c0e2174f6e2,312,"Application of Google earth engine python API and NAIP imagery for land use and land cover classification: A case study in Florida, USA",Prasai Ritika;Schwertner T. Wayne;Mainali Kumar;Mathewson Heather;Kafley Hemanta;Thapa Swosthi;Adhikari Dinesh;Medley Paul;Drake Jason,Ecological Informatics,2021-12-01,外文期刊
+6512b3969ff18c0e2174f6e3,313,Book Review: And Now for Something Completely Different: Critical Approaches to Monty Python,Hewett Richard,Critical Studies in Television: The International Journal of Television Studies,2021-12-01,外文期刊
+6512b3969ff18c0e2174f6e4,314,"Mining Imperfect Data: With Examples in R and Python, Second Edition",Stroch Joel A.,IEEE CONTROL SYSTEMS MAGAZINE,2021-12-01,外文期刊
+6512b3969ff18c0e2174f6e5,315,PETSc for Partial Differential Equations: Numerical Solutions in C and Python,Stroch Joel A.,IEEE CONTROL SYSTEMS MAGAZINE,2021-12-01,外文期刊
+6512b3969ff18c0e2174f6e6,316,BuckinghamPy: A Python software for dimensional analysis,Karam Mokbel;Saad Tony,SoftwareX,2021-12-01,外文期刊
+6512b3969ff18c0e2174f6e7,317,OpenMechanochem: A Python module for mechanochemical simulations,De Chavez Danjo;Hasegawa Jun-ya,SoftwareX,2021-12-01,外文期刊
+6512b3969ff18c0e2174f6e8,318,pySuStaIn: A Python implementation of the Subtype and Stage Inference algorithm,Aksman Leon M.;Wijeratne Peter A.;Oxtoby Neil P.;Eshaghi Arman;Shand Cameron;Altmann Andre;Alexander Daniel C.;Young Alexandra L.,SoftwareX,2021-12-01,外文期刊
+6512b3969ff18c0e2174f6e9,319,P257 - Monte Carlo: a particle transport simulation code in Python,Campos R.;Teles P.,Physica Medica,2021-12-01,外文期刊
+6512b3969ff18c0e2174f6ea,320,P266 - An EBAMP accredited Python data analysis course for medical physicists,Pace E.;Vella N.;Agius S.;Falzon J.;Bezzina M.;Bickle J.;Said C.;Caruana C.,Physica Medica,2021-12-01,外文期刊
+6512b3969ff18c0e2174f6eb,321,基于Python优化的任意钢-混组合截面应力与承载力分析研究,阴文蔚,铁道科学与工程学报,2021-11-30 14:38,期刊
+6512b3969ff18c0e2174f6ec,322,基于Python对招聘网的数据采集与分析,邓子婧; 毛红霞,现代工业经济和信息化,2021-11-30,期刊
+6512b3969ff18c0e2174f6ed,323,Cosmic-Ray neutron Sensor PYthon tool (crspy 1.2.1): an open-source tool for the processing of cosmic-ray neutron and soil moisture data,Power Daniel;Rico Ramirez Miguel Angel;Desilets Sharon;Desilets Darin;Rosolem Rafael,Geoscientific Model Development,2021-11-30,外文期刊
+6512b3969ff18c0e2174f6ee,324,Public Debt Frontier: A Python Toolkit for Analyzing Public Debt Sustainability,deCórdoba Gonzalo F.;Molinari Benedetto;Torres José L.,Sustainability,2021-11-30,外文期刊
+6512b3969ff18c0e2174f6ef,325,"CGRdb2.0: A Python Database Management System for Molecules, Reactions, and Chemical Data.",Gimadiev Timur;Nugmanov Ramil;Khakimova Aigul;Fatykhova Adeliya;Madzhidov Timur;Sidorov Pavel;Varnek Alexandre,Journal of chemical information and modeling,2021-11-29,外文期刊
+6512b3969ff18c0e2174f6f0,326,基于transformer的python命名实体识别模型,徐关友; 冯伟森,计算机应用,2021-11-26 16:21,期刊
+6512b3969ff18c0e2174f6f1,327,oflibnumpy & oflibpytorch: Optical Flow Handling and Manipulation in Python,Ravasio Claudio S.;Da Cruz Lyndon;Bergeles Christos,Journal of Open Research Software,2021-11-26,外文期刊
+6512b3969ff18c0e2174f6f2,328,基于C#与Python混合编程的钻井溢漏风险智能识别平台,孙伟峰;李威桦;王健;李宜君;张德志;戴永寿,实验技术与管理,2021-11-25 08:01,期刊
+6512b3969ff18c0e2174f6f3,329,基于大数据专业Python程序设计混合式教学的创新实践研究,郑蕊; 洪群; 郑超; 田美艳; 林宗朝,信息与电脑(理论版),2021-11-25,期刊
+6512b3969ff18c0e2174f6f4,330,一种基于Python的动环告警大数据资源稽核方法,张冬梅; 徐东镪,现代信息科技,2021-11-25,期刊
+6512b3969ff18c0e2174f6f5,331,Python在电气设备智能检测系统原型实现中的应用,刘传忠,电脑知识与技术,2021-11-25,期刊
+6512b3969ff18c0e2174f6f6,332,基于Python脚本编程的分幅土地利用现状图制作,雷泓晏; 邵龙; 李能,测绘与空间地理信息,2021-11-25,期刊
+6512b3969ff18c0e2174f6f7,333,Parglare: A LR/GLR parser for Python,Dejanović Igor,Science of Computer Programming,2021-11-24,外文期刊
+6512b3969ff18c0e2174f6f8,334,TensorClus: A python library for tensor (Co)-clustering,Boutalbi Rafika;Labiod Lazhar;Nadif Mohamed,Neurocomputing,2021-11-24,外文期刊
+6512b3969ff18c0e2174f6f9,335,Python Programming in PyPI for Translational Medicine,Takefuji Yoshiyasu,International Journal of Translational Medicine,2021-11-24,外文期刊
+6512b3969ff18c0e2174f6fa,336,Python实现基于深度学习的口罩检测技术,蔡英鹏;何雨航;林浩辉;罗梦雨;黄堉钿;吴荣敏,工业控制计算机,2021-11-23,期刊
+6512b3969ff18c0e2174f6fb,337,"Tomosipo: fast, flexible, and convenient 3D tomography for complex scanning geometries in Python.",Hendriksen Allard A;Schut Dirk;Palenstijn Willem Jan;Viganó Nicola;Kim Jisoo;Pelt Daniël M;van Leeuwen Tristan;Joost Batenburg K,Optics express,2021-11-22,外文期刊
+6512b3969ff18c0e2174f6fc,338,基于Python的物理实验数据实时检测分析系统,李震春; 孙瑶; 杨涛; 张家琪,物理实验,2021-11-20,期刊
+6512b3969ff18c0e2174f6fd,339,"SuperflexPy 1.3.0: an open-source Python framework for building, testing, and improving conceptual hydrological models",Dal Molin Marco;Kavetski Dmitri;Fenicia Fabrizio,Geoscientific Model Development,2021-11-19,外文期刊
+6512b3969ff18c0e2174f6fe,340,Newtum Academy Announces Debut of Python Online Course,,M2 Presswire,2021-11-18,外文期刊
+6512b3969ff18c0e2174f6ff,341,scqubits: a Python package for superconducting qubits,Groszkowski Peter;Koch Jens,QUANTUM,2021-11-17,外文期刊
+6512b3969ff18c0e2174f700,342,基于Python爬虫技术的商品信息采集与分析,孟宪颖; 毛应爽,软件,2021-11-15,期刊
+6512b3969ff18c0e2174f701,343,基于Python的投资组合收益率与波动率的数据分析,陈丽华; 曾德生,电脑知识与技术,2021-11-15,期刊
+6512b3969ff18c0e2174f702,344,融合Python技术与BSM期权定价模型的交易数据分析,陈丽华; 曾德生,长江信息通信,2021-11-15,期刊
+6512b3969ff18c0e2174f703,345,"CRAPPY: Command and Real-Time Acquisition in Parallelized Python, a Python module for experimental setups",Couty Victor;Witz Jean-François;Martel Corentin;Bari François;Weisrock Antoine,SoftwareX,2021-11-15,外文期刊
+6512b3969ff18c0e2174f704,346,pycityscheduling—A Python framework for the development and assessment of optimisation-based power scheduling algorithms for multi-energy systems in city districts,Schwarz Sebastian;Uerlich Sebastian Alexander;Monti Antonello,SoftwareX,2021-11-15,外文期刊
+6512b3969ff18c0e2174f705,347,PyPhotonics: A python package for the evaluation of luminescence properties of defects,Tawfik Sherif Abdulkader;Russo Salvy P.,Computer Physics Communications,2021-11-12,外文期刊
+6512b3969ff18c0e2174f706,348,Python程序设计课程教学改革与实践——基于项目教学模式,冀全朋; 严海升,西南师范大学学报(自然科学版),2021-11-11,期刊
+6512b3969ff18c0e2174f707,349,Synthaser: a CD-Search enabled Python toolkit for analysing domain architecture of fungal secondary metabolite megasynth(et)ases,Gilchrist Cameron L. M.;Chooi Yit Heng,Fungal Biology and Biotechnology,2021-11-11,外文期刊
+6512b3969ff18c0e2174f708,350,基于Python的网页爬虫技术研究,池毓森,信息与电脑(理论版),2021-11-10,期刊
+6512b39b9ff18c0e2174f709,351,“信息素养”视域下“Python开发技术”课程混合式教学模式研究,姜立,无线互联科技,2021-11-10,期刊
+6512b39b9ff18c0e2174f70a,352,基于Python爬虫的南京市二手房市场现状分析和热点研究,冯崇军,电脑与电信,2021-11-10,期刊
+6512b39b9ff18c0e2174f70b,353,基于Python的网络爬虫和反爬虫技术研究,周毅; 宁亮; 王鸥; 孙海波; 何金,现代信息科技,2021-11-10,期刊
+6512b39b9ff18c0e2174f70c,354,医学专业“Python程序设计”课程教学改革总结与思考,魏晋,现代信息科技,2021-11-10,期刊
+6512b39b9ff18c0e2174f70d,355,基于5G的高校Python语言课程混合式教学的研究与实践,王丽; 张银霞; 李敬有; 刘娜娜,现代信息科技,2021-11-10,期刊
+6512b39b9ff18c0e2174f70e,356,EFMlrs: a Python package for elementary flux mode enumeration via lexicographic reverse search,Buchner Bianca A;Zanghellini Jürgen,BMC Bioinformatics,2021-11-10,外文期刊
+6512b39b9ff18c0e2174f70f,357,Microsoft’s Pyjion compiler for Python reaches 1.0,Serdar Yegulalp,InfoWorld.com,2021-11-09,外文期刊
+6512b39b9ff18c0e2174f710,358,利用Python实现精馏塔逐板计算及图形化教学,孙喆;尹晓红;范文元;张舜光;刘勇;许良华;穆曼曼,山东化工,2021-11-08,期刊
+6512b39b9ff18c0e2174f711,359,ttcrpy: A Python package for traveltime computation and raytracing,Giroux Bernard,SoftwareX,2021-11-07,外文期刊
+6512b39b9ff18c0e2174f712,360,大数据分析中Python语言的应用分析,余勍,中国新通信,2021-11-05,期刊
+6512b39b9ff18c0e2174f713,361,基于Python开发的海德汉数控系统IO人机交互界面,柳光照; 余道挺; 周杰,现代制造,2021-11-05,期刊
+6512b39b9ff18c0e2174f714,362,课程思政融入计算机实践教学——以Python语言课程设计为例,李大舟; 高巍,电脑知识与技术,2021-11-05,期刊
+6512b39b9ff18c0e2174f715,363,FlowKit: A Python Toolkit for Integrated Manual and Automated Cytometry Analysis Workflows,White Scott;Quinn John;Enzor Jennifer;Staats Janet;Mosier Sarah M.;Almarode James;Denny Thomas N.;Weinhold Kent J.;Ferrari Guido;Chan Cliburn,Frontiers in Immunology,2021-11-05,外文期刊
+6512b39b9ff18c0e2174f716,364,基于Python语言构建名中医医案数据挖掘平台,卢林竹;王智浩;蒋益兰;何兰;曹如柔;蒋盛昶,世界科学技术-中医药现代化,2021-11-04 16:44,期刊
+6512b39b9ff18c0e2174f717,365,dh2loop 1.0: an open-source Python library for automated processing and classification of geological logs,Joshi Ranee;Madaiah Kavitha;Jessell Mark;Lindsay Mark;Pirot Guillaume,Geoscientific Model Development,2021-11-04,外文期刊
+6512b39b9ff18c0e2174f718,366,Python virtualenv and venv dos and don’ts,Serdar Yegulalp,InfoWorld.com,2021-11-03,外文期刊
+6512b39b9ff18c0e2174f719,367,Python Packages for Exploratory Factor Analysis,Persson Isaiah;Khojasteh Jam,Structural Equation Modeling: A Multidisciplinary Journal,2021-11-02,外文期刊
+6512b39b9ff18c0e2174f71a,368,pyRSD-CoEv: A python package for selective sweep detection and co-evolutionary gene cluster identification.,Zhu X;Zhang H;Tang Q,Animal genetics,2021-11-02,外文期刊
+6512b39b9ff18c0e2174f71b,369,Python元类工作机制,李德水,办公自动化,2021-11-01,期刊
+6512b39b9ff18c0e2174f71c,370,Analysis of performance metrics of heart failured patients using Python and machine learning algorithms,Sanni Rachana R;Guruprasad H.S.,Global Transitions Proceedings,2021-11-01,外文期刊
+6512b39b9ff18c0e2174f71d,371,Implementation of Web Data Mining Technology Based on Python,Feng Guilian,Journal of Physics: Conference Series,2021-11-01,外文期刊
+6512b39b9ff18c0e2174f71e,372,SCORECOVID: A Python Package Index for scoring the individual policies against COVID-19,Takefuji Yoshiyasu,Healthcare Analytics,2021-11-01,外文期刊
+6512b39b9ff18c0e2174f71f,373,Determination of physico-chemical parameters of coal mines water samples and their correlation establishment with WQI using python programming,Parida Satyajeet;Tripathi Abhishek Kumar;Tripathy D.P.;Bora Purabi,Journal of Physics: Conference Series,2021-11-01,外文期刊
+6512b39b9ff18c0e2174f720,374,Experimental study of VCR engine performance analysis using python module,Udya Sri K;Murthy B S N;Mohan Rao N,Journal of Physics: Conference Series,2021-11-01,外文期刊
+6512b39b9ff18c0e2174f721,375,Principles of securing RESTful API web services developed with python frameworks,Kornienko D V;Mishina S V;Shcherbatykh S V;Melnikov M O,Journal of Physics: Conference Series,2021-11-01,外文期刊
+6512b39b9ff18c0e2174f722,376,sxdm—A python framework for analysis of Scanning X-Ray Diffraction Microscopy data,Judge William;Plews Michael;May Brian;Holt Martin V.;Cabana Jordi,Software Impacts,2021-11-01,外文期刊
+6512b39b9ff18c0e2174f723,377,A Parametric Framework to Generate Visual Illusions Using Python,Makowski Dominique;Lau Zen J.;Pham Tam;Paul Boyce W.;Annabel Chen S.H.,Perception,2021-11-01,外文期刊
+6512b39b9ff18c0e2174f724,378,Optimization of biogas yield from anaerobic co-digestion of corn-chaff and cow dung digestate: RSM and python approach.,Iweka Sunday Chukwuka;Owuama K C;Chukwuneke J L;Falowo O A,Heliyon,2021-11-01,外文期刊
+6512b39b9ff18c0e2174f725,379,Python: The future programming language,Tripathi Ramesh Chandra;Love K.;Bogdanchikov A.;Zhaparov M.;Suliyev R.;Hoving R.;Slot G.;Jansen S.;Mcgugan W.;Chun W.;Rashed M.G.;Ahsan R.;Buranosky M.;Stellnberger E.;Pfaff E.;Diaz Sanchez D.;Ward Caviness C.;Zhou J.J.;Wang S.F.;Li L.M.,Asian Journal of Multidimensional Research,2021-11-01,外文期刊
+6512b39b9ff18c0e2174f726,380,mics-library: A Python package for reproducible studies on the Multiple Indicator Cluster Survey,Bizzego Andrea;Lim Mengyu;Esposito Gianluca,SoftwareX,2021-10-28,外文期刊
+6512b39b9ff18c0e2174f727,381,A photovoltaic power output dataset: Multi-source photovoltaic power output dataset with Python toolkit,Yao Tiechui;Wang Jue;Wu Haoyan;Zhang Pei;Li Shigang;Wang Yangang;Chi Xuebin;Shi Min,Solar Energy,2021-10-28,外文期刊
+6512b39b9ff18c0e2174f728,382,The mitochondrial genome sequence analysis of Ophidascaris baylisi from the Burmese python (Python molurus bivittatus),Zhao Qi;Abuzeid Asmaa M.I.;He Long;Zhuang Tingting;Li Xiu;Liu Jumei;Zhu Shilan;Chen Xiaoyu;Li Guoqing,Parasitology International,2021-10-28,外文期刊
+6512b39b9ff18c0e2174f729,383,"Introduction to computational causal inference using reproducible Stata, R, and Python code: A tutorial.",Smith Matthew J;Mansournia Mohammad A;Maringe Camille;Zivich Paul N;Cole Stephen R;Leyrat Clémence;Belot Aurélien;Rachet Bernard;LuqueFernandez Miguel A,Statistics in medicine,2021-10-28,外文期刊
+6512b39b9ff18c0e2174f72a,384,高频电子线路实验数据的Python处理分析,杨俊秀; 赵文来; 姚青; 吕军,实验技术与管理,2021-10-27 14:45,期刊
+6512b39b9ff18c0e2174f72b,385,Steganography Using Python,Sengupta Rajrishi;Umarani C.,IITM Journal of Management and IT,2021-10-26,外文期刊
+6512b39b9ff18c0e2174f72c,386,Face Recognition with Python,Rawat Deepika;Deepanshu;Gupta Vishal;Attri Megha;Upadhyay Abhishek;Peleshko D.;Soroka K.;Kanungo T.;Mount D. M.;Netanyahu N. S.;Piatko C. D.;Silverman R.;Wu A. Y.,IITM Journal of Management and IT,2021-10-26,外文期刊
+6512b39b9ff18c0e2174f72d,387,基于Python的高校课表转换方法,吴圭亮; 曾俊; 刘玥,信息与电脑(理论版),2021-10-25,期刊
+6512b39b9ff18c0e2174f72e,388,基于Python的轻量级试题智能提取和转换工具的设计,沈涵飞,信息与电脑(理论版),2021-10-25,期刊
+6512b39b9ff18c0e2174f72f,389,地理信息科学专业Python程序课程设计与开课效果分析,张黎明; 刘涛; 周亮; 杜萍; 朱睿,测绘与空间地理信息,2021-10-25,期刊
+6512b39b9ff18c0e2174f730,390,基于Python语言的自动化测试应用实例,蒋程燕; 孟令琴,工业控制计算机,2021-10-25,期刊
+6512b39b9ff18c0e2174f731,391,药学生Python程序设计课程教学探索,侯凤贞; 潘蕾; 武小川; 孙敏捷,药学教育,2021-10-25,期刊
+6512b39b9ff18c0e2174f732,392,基于新文科的Python程序设计基础课程的建设与研究,冯桂尔,电脑知识与技术,2021-10-25,期刊
+6512b39b9ff18c0e2174f733,393,基于“MOOC+SPOC+Py Charm”多平台师生学习共同体的构建研究——以“Python语言程序设计课程”为例,丛晓; 路鹏,无线互联科技,2021-10-25,期刊
+6512b39b9ff18c0e2174f734,394,化工原理课程的网络化教学:从Python到Jupyter Notebook,孙喆;尹晓红;范文元;张舜光;刘勇;许良华;穆曼曼,山东化工,2021-10-23,期刊
+6512b39b9ff18c0e2174f735,395,zeus: a python implementation of ensemble slice sampling for efficient Bayesian parameter inference,Karamanis Minas;Beutler Florian;Peacock John A,Monthly Notices of the Royal Astronomical Society,2021-10-22,外文期刊
+6512b39b9ff18c0e2174f736,396,An introduction to Random Forests for modeling tasks - theory and practice in python with public health case studies,Assouline D;Le Pogam M-A;Pittet V,European Journal of Public Health,2021-10-20,外文期刊
+6512b39b9ff18c0e2174f737,397,Models@Runtime: The Development and Re-Configuration Management of Python Applications Using Formal Methods,Bouhamed Mohammed Mounir;Díaz Gregorio;Chaoui Allaoua;Kamel Oussama;Nouara Radouane,Applied Sciences,2021-10-19,外文期刊
+6512b39b9ff18c0e2174f738,398,Scikit-Dimension: A Python Package for Intrinsic Dimension Estimation,Bac Jonathan;Mirkes Evgeny M.;Gorban Alexander N.;Tyukin Ivan;Zinovyev Andrei,Entropy,2021-10-19,外文期刊
+6512b39b9ff18c0e2174f739,399,pyActigraphy: Open-source python package for actigraphy data visualization and analysis.,Hammad Grégory;Reyt Mathilde;Beliy Nikita;Baillet Marion;Deantoni Michele;Lesoinne Alexia;Muto Vincenzo;Schmidt Christina,PLoS computational biology,2021-10-19,外文期刊
+6512b39b9ff18c0e2174f73a,400,基于Python的树干径向变化数据分析程序（DAIP）：以六盘山华北落叶松为例,刘泽彬; 刘安迪; 于澎涛; 涂立辉,陆地生态系统与保护学报,2021-10-15,期刊
+6512b3a09ff18c0e2174f73b,401,利用Python语言实现软件系统准热备的一种方法——以JOPENS0.5.2流服务器为例,马士振;林向东;苏柱金;梁芳;赵祖虎;白永福,华北地震科学,2021-10-15,期刊
+6512b3a09ff18c0e2174f73c,402,Python在短临气象预报检验中的应用,何佳; 惠建忠; 何险峰; 王曙东; 高金兵,气象科技,2021-10-15,期刊
+6512b3a09ff18c0e2174f73d,403,mfapy: An open-source Python package for 13C-based metabolic flux analysis,Matsuda Fumio;Maeda Kousuke;Taniguchi Takeo;Kondo Yuya;Yatabe Futa;Okahashi Nobuyuki;Shimizu Hiroshi,Metabolic Engineering Communications,2021-10-14,外文期刊
+6512b3a09ff18c0e2174f73e,404,"Python stands to lose its GIL, and gain a lot of speed",Serdar Yegulalp,InfoWorld.com,2021-10-14,外文期刊
+6512b3a09ff18c0e2174f73f,405,Data Analysis and Visualization Platform Design for Batteries Using Flask-Based Python Web Service,Liang Zuyi;Liang Zongwei;Zheng Yubin;Liang Beichen;Zheng Linfeng,World Electric Vehicle Journal,2021-10-14,外文期刊
+6512b3a09ff18c0e2174f740,406,Python tops Tiobe language index,Paul Krill,InfoWorld.com,2021-10-12,外文期刊
+6512b3a09ff18c0e2174f741,407,"Correction to ""PySHS: Python Open Source Software for Second Harmonic Scattering"".",Boudjema Lotfi;Aarrass Hanna;Assaf Marwa;Morille Marie;MartinGassin Gaelle;Gassin PierreMarie,Journal of chemical information and modeling,2021-10-12,外文期刊
+6512b3a09ff18c0e2174f742,408,Using a Modular Approach to Introduce Python Coding to Support Existing Course Learning Outcomes in a Lower Division Analytical Chemistry Course,De Haan David O.;Schafer Julia A.;Gillette Eleanor I,JOURNAL OF CHEMICAL EDUCATION,2021-10-12,外文期刊
+6512b3a09ff18c0e2174f743,409,引入Scrapy框架的Python网络爬虫应用研究,黎妍; 肖卓宇,福建电脑,2021-10-11,期刊
+6512b3a09ff18c0e2174f744,410,"A Case of Submandibular Leiomyosarcoma, Mimicking an Abscess, in a Ball Python (Python regius)",Kwon Jun;Kim Sang Wha;Kim Sang Guen;Kim Hyoun Joong;Lee Sung Bin;Kang Jeong Woo;Jung Won Joon;Giri Sib Sankar;Lee Kyunglee;Park Se Chang,Veterinary Sciences,2021-10-11,外文期刊
+6512b3a09ff18c0e2174f745,411,基于Python语言路径分析矩阵算法运演,钟志强; 张毅宁,电脑与电信,2021-10-10,期刊
+6512b3a09ff18c0e2174f746,412,基于不同专业背景的Python课程体系研究,颜远海,电脑与电信,2021-10-10,期刊
+6512b3a09ff18c0e2174f747,413,基于树莓派和Python的数字音效处理综合实验设计,孙晖; 彭里卓,集成电路应用,2021-10-10,期刊
+6512b3a09ff18c0e2174f748,414,pyNIROM—A suite of python modules for non-intrusive reduced order modeling of time-dependent problems,Dutta Sourav;Rivera-Casillas Peter;Cecil Orie M.;Farthing Matthew W.,Software Impacts,2021-10-09,外文期刊
+6512b3a09ff18c0e2174f749,415,QuantImPy: Minkowski functionals and functions with Python,Boelens Arnout M.P.;Tchelepi Hamdi A.,SoftwareX,2021-10-09,外文期刊
+6512b3a09ff18c0e2174f74a,416,GPUCorrel: A GPU accelerated Digital Image Correlation software written in Python,Couty Victor;Witz Jean-François;Lecomte-Grosbras Pauline;Berthe Julien;Deletombe Eric;Brieu Mathias,SoftwareX,2021-10-09,外文期刊
+6512b3a09ff18c0e2174f74b,417,magcoilcalc: A Python package for modeling and optimization of axisymmetric magnet coils generating uniform magnetic field for noble gas spin-polarizers,Meng Siqin;Fu Zhendong;Qin Jianfei;Ma Xiaobai;Li Yuqing;Hao Lijie;Liu Yuntao;Sun Kai;Chen Dongfeng,SoftwareX,2021-10-09,外文期刊
+6512b3a09ff18c0e2174f74c,418,A Python Package for Heart Rate Variability Analysis and Signal Preprocessing,Champseix Robin;Ribiere Laurent;Le Couedic Clément,Journal of Open Research Software,2021-10-06,外文期刊
+6512b3a09ff18c0e2174f74d,419,PyCCE: A Python Package for Cluster Correlation Expansion Simulations of Spin Qubit Dynamics,Onizhuk Mykyta;Galli Giulia,Advanced Theory and Simulations,2021-10-03,外文期刊
+6512b3a09ff18c0e2174f74e,420,BciPy: brain–computer interface software in Python,Memmott Tab;Koçanaoğulları Aziz;Lawhead Matthew;Klee Daniel;Dudy Shiran;Fried Oken Melanie;Oken Barry,Brain-Computer Interfaces,2021-10-02,外文期刊
+6512b3a09ff18c0e2174f74f,421,Python脚本语言的Web开发应用探究,丁洁,数字通信世界,2021-10-01,期刊
+6512b3a09ff18c0e2174f750,422,Corrigendum: QuCAT: quantum circuit analyzer tool in Python (2020 New J. Phys. 22 013025),Gely Mario F;Steele Gary A,New Journal of Physics,2021-10-01,外文期刊
+6512b3a09ff18c0e2174f751,423,Python-provided algorithm for calculating oil field operation parameters for expansion drive reservoirs,Gabdrakhmanova K F;Izmaylova G R;Samigullina L Z,Journal of Physics: Conference Series,2021-10-01,外文期刊
+6512b3a09ff18c0e2174f752,424,"BayesicFitting, a PYTHON toolbox for Bayesian fitting and evidence calculation.: Including a Nested Sampling implementation.",Kester D.;Mueller M.,Astronomy and Computing,2021-10-01,外文期刊
+6512b3a09ff18c0e2174f753,425,Software Engineering Development of Finite Element Method Programming Applications in 2D Frame Structures Using Python Programs,Nazaruddin N;Siallagan Richard,Journal of Physics: Conference Series,2021-10-01,外文期刊
+6512b3a09ff18c0e2174f754,426,Prepare and analyze taxation data using the Python Pandas library,Vagizov M;Potapov A;Konzhgoladze K;Stepanov S;Martyn I,IOP Conference Series: Earth and Environmental Science,2021-10-01,外文期刊
+6512b3a09ff18c0e2174f755,427,The Study of Automatic Picking of P and S Wave Arrival and Identification of Earthquake Sequence Pattern using Scalogram in Obspy (Python),Kiswanti Sri;Palupi Indriati Retno;Raharjo Wiji;Arwa Faricha Yuna;Dwiyanti Nela Elisa,IOP Conference Series: Earth and Environmental Science,2021-10-01,外文期刊
+6512b3a09ff18c0e2174f756,428,"Analyzing University of Virginia Health publications using open data, Python, and Streamlit.",Parker Anson;Heflin Abbey;Jones Lucy Carr,Journal of the Medical Library Association : JMLA,2021-10-01,外文期刊
+6512b3a09ff18c0e2174f757,429,基于Python的应用程序黑客攻击分析与实施,邱晓鹏,办公自动化,2021-09-30,期刊
+6512b3a09ff18c0e2174f758,430,基于ProToolkit与Python的模型设计流程优化,陆承佳,电脑与信息技术,2021-09-30,期刊
+6512b3a09ff18c0e2174f759,431,Python公共课线上线下融合式教学模式研究,刘宁; 夏梦岩; 刘儒; 郑小东; 余建国,科技风,2021-09-30,期刊
+6512b3a09ff18c0e2174f75a,432,基于Python语言环境下的大数据审计技术应用研究,李东光; 苏萌,对外经贸,2021-09-30,期刊
+6512b3a09ff18c0e2174f75b,433,基于Python的互联网POI数据爬取,邓晓斌,地理空间信息,2021-09-28,期刊
+6512b3a09ff18c0e2174f75c,434,基于Python爬虫的豆瓣电影影评数据可视化分析,蔡文乐; 周晴晴; 刘玉婷; 秦立静,现代信息科技,2021-09-25,期刊
+6512b3a09ff18c0e2174f75d,435,基于Python的股票数据可视化分析——以新能源汽车行业为例,李思佳,河北软件职业技术学院学报,2021-09-25,期刊
+6512b3a09ff18c0e2174f75e,436,基于Python与ArcPy的电子地图自动化制图研究,夏苏琼; 李乃强,测绘与空间地理信息,2021-09-25,期刊
+6512b3a09ff18c0e2174f75f,437,基于Python的电子水准数据处理程序的设计与实现,白雪; 彭晨,地矿测绘,2021-09-25,期刊
+6512b3a09ff18c0e2174f760,438,基于Python的One-hot编码的实现,刘辉玲; 陶洁; 邱磊,武汉船舶职业技术学院学报,2021-09-25,期刊
+6512b3a09ff18c0e2174f761,439,基于Python的房价数据爬取及可视化分析,刘影,信息与电脑(理论版),2021-09-25,期刊
+6512b3a09ff18c0e2174f762,440,基于Python的优化适线法在水文频率分析中的应用,雷庆文; 高培强; 李建林,河北水利电力学院学报,2021-09-24,期刊
+6512b3a09ff18c0e2174f763,441,"Rotten green tests in Java, Pharo and Python",Aranega Vincent;Delplanque Julien;Martinez Matias;Black Andrew P.;Ducasse Stéphane;Etien Anne;Fuhrman Christopher;Polito Guillermo,Empirical Software Engineering,2021-09-24,外文期刊
+6512b3a09ff18c0e2174f764,442,基于Python的编译原理教学演示模块设计与实践,任小强; 王雪梅; 唐晓华; 王春佳,工业控制计算机,2021-09-23,期刊
+6512b3a09ff18c0e2174f765,443,Pythonによるひまわり8号データの可視化:静止気象衛星ひまわりデータの利用研究特集：事例紹介,豊嶋 紘一,日本リモートセンシング学会誌,2021-09-20,外文期刊
+6512b3a09ff18c0e2174f766,444,基于Python语言和Abaqus软件的轮胎参数化高效建模技术,曹金凤;王志文;王慎平;高明;曾雨培;贾舒安,橡胶工业,2021-09-17 16:06,期刊
+6512b3a09ff18c0e2174f767,445,NL4Py: Agent-based modeling in Python with parallelizable NetLogo workspaces,Gunaratne Chathika;Garibay Ivan,SoftwareX,2021-09-17,外文期刊
+6512b3a09ff18c0e2174f768,446,pyResearchInsights—An open‐source Python package for scientific text analysis,Shetty Sarthak J.;Ramesh Vijay,Ecology and Evolution,2021-09-17,外文期刊
+6512b3a09ff18c0e2174f769,447,Python concurrency and parallelism explained,Serdar Yegulalp,InfoWorld.com,2021-09-16,外文期刊
+6512b3a09ff18c0e2174f76a,448,TFTenricher: a python toolbox for annotation enrichment analysis of transcription factor target genes,Magnusson Rasmus;Lubovac Pilav Zelmina,BMC Bioinformatics,2021-09-16,外文期刊
+6512b3a09ff18c0e2174f76b,449,Python在“计算材料学”教学中的应用探索,张亚超; 郑珊,教育教学论坛,2021-09-15,期刊
+6512b3a09ff18c0e2174f76c,450,Python在统计学课程实训中的应用探索,何小年; 段凤华,软件,2021-09-15,期刊
+6512b3a59ff18c0e2174f76d,451,基于Python的微信远程桌面控制程序的设计及实现,徐大伟; 高家奇; 祝烈煌; 吴阜东,广州大学学报(自然科学版),2021-09-15,期刊
+6512b3a59ff18c0e2174f76e,452,Film Information Crawling Based on Python,Nian Dai;Teng Yu,Journal of Research in Science and Engineering,2021-09-15,外文期刊
+6512b3a59ff18c0e2174f76f,453,A Simple Comparison Between Java Python and Nodejs in Web Development,Dr. Anupam Sharma;Archit Jain;Ayush Bahuguna;Deeksha Dinkar,Journal of Research in Science and Engineering,2021-09-15,外文期刊
+6512b3a59ff18c0e2174f770,454,Intelligent mining vulnerabilities in python code snippets,Guo Wenbo;Huang Cheng;Niu Weina;Fang Yong,Journal of Intelligent & Fuzzy Systems,2021-09-15,外文期刊
+6512b3a59ff18c0e2174f771,455,LUCI: A Python Package for SITELLE Spectral Analysis,Rhea Carter;Hlavacek-Larrondo Julie;Rousseau-Nepton Laurie;Vigneron Benjamin;Guité Louis-Simon,Research Notes of the AAS,2021-09-14,外文期刊
+6512b3a59ff18c0e2174f772,456,Topology optimization using PETSc: a Python wrapper and extended functionality,"Smit, Thijs;Aage, Niels;Ferguson, Stephen J.;Helgason, Benedikt",Structural and Multidisciplinary Optimization,2021-09-14,外文期刊
+6512b3a59ff18c0e2174f773,457,"A Gentle Introduction to Machine Learning for Chemists: An Undergraduate Workshop Using Python Notebooks for Visualization, Data Processing, Analysis, and Modeling",Lafuente Deborah;Cohen Brenda;Fiorini Guillermo;Garcia Agustin Alejo;Bringas Mauro;Morzan Ezequiel;Onna Diego,JOURNAL OF CHEMICAL EDUCATION,2021-09-14,外文期刊
+6512b3a59ff18c0e2174f774,458,Python slithers toward top of language popularity index,Paul Krill,InfoWorld.com,2021-09-13,外文期刊
+6512b3a59ff18c0e2174f775,459,Dynamic simulation of solar-powered ORC using open-source tools: A case study combining SAM and coolprop via Python,Eddouibi Jaouad;Abderafi Souad;Vaudreuil Sébastien;Bounahmidi Tijani,Energy,2021-09-12,外文期刊
+6512b3a59ff18c0e2174f776,460,Using Python and Google Colab to teach undergraduate microeconomic theory,Kuroki Masanori,International Review of Economics Education,2021-09-12,外文期刊
+6512b3a59ff18c0e2174f777,461,基于Python的植物标本采集实训平台,黄蓉美; 宋永生,现代信息科技,2021-09-10,期刊
+6512b3a59ff18c0e2174f778,462,基于Python语言的高敏数据动态抓取方法研究,彭文良; 吴红虹,蚌埠学院学报,2021-09-10,期刊
+6512b3a59ff18c0e2174f779,463,Python环境下的JavaScript逆向技术分析,王朝阳; 范伊红; 李梦丹; 忽爱平,无线互联科技,2021-09-10,期刊
+6512b3a59ff18c0e2174f77a,464,The star-melt python package for emission-line analysis of YSOs,Campbell-White Justyn;Sicilia-Aguilar Aurora;Manara Carlo F;Matsumura Soko;Fang Min;Frasca Antonio;Roccatagliata Veronica,Monthly Notices of the Royal Astronomical Society,2021-09-09,外文期刊
+6512b3a59ff18c0e2174f77b,465,A Novel Automate Python Edge-to-Edge: From Automated Generation on Cloud to User Application Deployment on Edge of Deep Neural Networks for Low Power IoT Systems FPGA-Based Acceleration,Belabed Tarek;Ramos Gomes da Silva Vitor;Quenon Alexandre;Valderamma Carlos;Souani Chokri,Sensors,2021-09-09,外文期刊
+6512b3a59ff18c0e2174f77c,466,Python程序设计课程过程化教学改革实践,吴纪磊,电脑知识与技术,2021-09-05,期刊
+6512b3a59ff18c0e2174f77d,467,reciprocalspaceship: a Python library for crystallographic data analysis,Greisman Jack B.;Dalton Kevin M.;Hekstra Doeke R.,Journal of Applied Crystallography,2021-09-04,外文期刊
+6512b3a59ff18c0e2174f77e,468,Python parallel processing for hyperspectral image simulation: based on distance functions,Peddinti Veerendra Satya Sylesh;Mandla Venkata Ravibabu;Mesapam Shashi;Kancherla Suresh,Earth Science Informatics,2021-09-03,外文期刊
+6512b3a59ff18c0e2174f77f,469,Development of a Python Program Simulating Motions of Celestial Bodies,Yan Jin,Journal of Physics: Conference Series,2021-09-01,外文期刊
+6512b3a59ff18c0e2174f780,470,"Pyston, the Python alternative, gets backing from Anaconda",Paul Krill,InfoWorld.com,2021-09-01,外文期刊
+6512b3a59ff18c0e2174f781,471,Design and Implementation of Crawler Program Based on Python,Ma Xiaoju;Yan Min,Journal of Physics: Conference Series,2021-09-01,外文期刊
+6512b3a59ff18c0e2174f782,472,Computation of dimensional variations on the structural analysis of multi-cell aircraft box beams with python scripting,Hande Yavuz,Aircraft Engineering and Aerospace Technology,2021-09-01,外文期刊
+6512b3a59ff18c0e2174f783,473,Step Into the Digital Age with Python,Jacob Albrecht,Chemical Engineering Progress,2021-09-01,外文期刊
+6512b3a59ff18c0e2174f784,474,CC-FJpy: A Python Package for Extracting Overtone Surface-Wave Dispersion from Seismic Ambient-Noise Cross Correlation,Li Zhengbo;Zhou Jie;Wu Gaoxiong;Wang Jiannan;Zhang Gongheng;Dong Sheng;Pan Lei;Yang Zhentao;Gao Lina;Ma Qingbo;Ren Hengxin;Chen Xiaofei,SEISMOLOGICAL RESEARCH LETTERS,2021-09-01,外文期刊
+6512b3a59ff18c0e2174f785,475,gcims‐tools Vorschau eines Python‐Moduls zur multivariaten Auswertung von GC‐IMS Daten,Christmann Joscha;Weller Philipp,Lebensmittelchemie,2021-08-30,外文期刊
+6512b3a59ff18c0e2174f786,476,LiPyphilic: A Python Toolkit for the Analysis of Lipid Membrane Simulations.,Smith Paul;Lorenz Christian D,Journal of chemical theory and computation,2021-08-27,外文期刊
+6512b3a59ff18c0e2174f787,477,Python-microscope: A new open source Python library for the control of microscopes.,Pinto David Miguel Susano;Phillips Mick A;Hall Nicholas;MateosLangerak Julio;Stoychev Danail;Pinto Tiago Susano;Booth Martin J;Davis Ilan;Dobbie Ian M,Journal of cell science,2021-08-27,外文期刊
+6512b3a59ff18c0e2174f788,478,CMInject: Python framework for the numerical simulation of nanoparticle injection pipelines,Welker Simon;Amin Muhamed;Küpper Jochen,Computer Physics Communications,2021-08-26,外文期刊
+6512b3a59ff18c0e2174f789,479,Investigation of a sintering phenomenon through master sintering curve based on python software,Orlandini Mayara Eid;Araújo Huyra Estevão,International Journal of Applied Ceramic Technology,2021-08-26,外文期刊
+6512b3a59ff18c0e2174f78a,480,基于Python的网上购物数据爬取,高雅婷; 刘雅举,现代信息科技,2021-08-25,期刊
+6512b3a59ff18c0e2174f78b,481,基于Python的双过滤水肥一体机智能控制研究,夏永秋,农机化研究,2021-08-25,期刊
+6512b3a59ff18c0e2174f78c,482,生态学α多样性指数计算的Python程序设计,白顺华,电脑知识与技术,2021-08-25,期刊
+6512b3a59ff18c0e2174f78d,483,基于Python实现生产数据可视化可行性分析,葛勇,红水河,2021-08-25,期刊
+6512b3a59ff18c0e2174f78e,484,基于Python的《三国演义》人物关系网络的构建与分析,沈阳; 陈瑛,数字技术与应用,2021-08-25,期刊
+6512b3a59ff18c0e2174f78f,485,Get started with Python type hints,Serdar Yegulalp,InfoWorld.com,2021-08-25,外文期刊
+6512b3a59ff18c0e2174f790,486,Atomic Simulation Recipes – A Python framework and library for automated workflows,Gjerding Morten;Skovhus Thorbjørn;Rasmussen Asbjørn;Bertoldo Fabian;Larsen Ask Hjorth;Mortensen Jens Jørgen;Thygesen Kristian Sommer,Computational Materials Science,2021-08-24,外文期刊
+6512b3a59ff18c0e2174f791,487,A Python script to automate STM image analysis for stepped surfaces,Bastidas Jessika M. Piñeiros;Auras Sabine V.;Juurlink Ludo B.F.,Applied Surface Science,2021-08-24,外文期刊
+6512b3a59ff18c0e2174f792,488,“pyGDM” - new functionalities and major improvements to the python toolkit for nano-optics full-field simulations,Wiecha Peter R.;Majorel Clément;Arbouet Arnaud;Patoux Adelin;Brûlé Yoann;Colas des Francs Gérard;Girard Christian,Computer Physics Communications,2021-08-24,外文期刊
+6512b3a59ff18c0e2174f793,489,StormReactor: An open-source Python package for the integrated modeling of water quality and water balance,Mason Brooke E.;Mullapudi Abhiram;Kerkez Branko,Environmental Modelling & Software,2021-08-24,外文期刊
+6512b3a59ff18c0e2174f794,490,Facial Expression Recognition Using Python Using CNN Model,Akash Kumar;Athira B. Nair;Swarnaprabha Jena;Debaraj Rana;Subrat Kumar Pradhan,Current Journal of Applied Science and Technology,2021-08-24,外文期刊
+6512b3a59ff18c0e2174f795,491,Monte Carlo Assisted FTIR Spectroscopy: A Python Tool for the Determination of the Constituents in Blended Biopolymer Samples,Souza Fernando Gomes;Cunha Cláudia Duarte;Pereira Emiliane Daher;Dias Diogo Simas Bernardes;Pal Kaushik;Pereira Michelle Colão;Silva Rebecca Alves,Macromolecular Symposia,2021-08-23,外文期刊
+6512b3a59ff18c0e2174f796,492,CBDPS 1.0: A Python GUI Application for Machine Learning Models to Predict Bitter-Tasting Children's Oral Medicines.,Bai Guoliang;Wu Tiantian;Zhao Libo;Wang Xiaoling;Li Shan;Ni Xin,Chemical & pharmaceutical bulletin,2021-08-21,外文期刊
+6512b3a59ff18c0e2174f797,493,Sperm cryopreservation in the Burmese python Python bivittatus as a model for endangered snakes.,Young Carly;Ravida Nicole;Rochford Michael;Mazzotti Frank;Curtis Michelle;Durrant Barbara,"Reproduction, fertility, and development",2021-08-20,外文期刊
+6512b3a59ff18c0e2174f798,494,用Python实现节点系统数据速查的方法,陈增义; 万立军; 王勇; 王旭; 李永帅,物探装备,2021-08-19,期刊
+6512b3a59ff18c0e2174f799,495,THE ROLE OF OPEN-SOURCE PYTHON PACKAGE GEOSERVER-REST IN WEB-GIS DEVELOPMENT,Kshetri T. B.;Chaksan A.;Sharma S.,"The International Archives of the Photogrammetry, Remote Sensing and Spatial Inf;ormation Sciences",2021-08-19,外文期刊
+6512b3a59ff18c0e2174f79a,496,AN OPEN-SOURCE CANOPY CLASSIFICATION SYSTEM USING MACHINE-LEARNING TECHNIQUES WITHIN A PYTHON FRAMEWORK,Smith O.;Cho H.,"The International Archives of the Photogrammetry, Remote Sensing and Spatial Inf;ormation Sciences",2021-08-19,外文期刊
+6512b3a59ff18c0e2174f79b,497,"HELMpy, Open Source Package of Power Flow Solvers, Including the Holomorphic Embedding Load Flow Method (HELM), Developed on Python 3",Molina Tulio;Ortega Juan;Muñoz Juan,Journal of Open Research Software,2021-08-18,外文期刊
+6512b3a59ff18c0e2174f79c,498,DJMol: An open-source modeling platform for computational chemistry and materials science with a Python interpreter.,G Prasanna Krishnamohan;Sunil Rahul;Gupta Kapil;Lee SeungCheol,Journal of computational chemistry,2021-08-18,外文期刊
+6512b3a59ff18c0e2174f79d,499,基于Python的RSA密码算法的设计与实现,白永祥; 何林; 陈逸怀,电子设计工程,2021-08-16,期刊
+6512b3a59ff18c0e2174f79e,500,PySWR- A Python code for fitting soil water retention functions,Memari Sama S.;Clement T. Prabhakar,Computers & Geosciences,2021-08-16,外文期刊
+6512b3aa9ff18c0e2174f79f,501,以OBE为导向的信管专业Python课程实践教学改革,任廷艳,计算机时代,2021-08-15,期刊
+6512b3aa9ff18c0e2174f7a0,502,探索中学信息技术的Python之路,袁涛,电脑知识与技术,2021-08-15,期刊
+6512b3aa9ff18c0e2174f7a1,503,基于python的移动网络优化自动化,云成龙,长江信息通信,2021-08-15,期刊
+6512b3aa9ff18c0e2174f7a2,504,面向新文科Python语言程序设计的课程思政教育融入式教学研究,王晓静; 索菲; 张杨,辽宁大学学报(自然科学版),2021-08-15,期刊
+6512b3aa9ff18c0e2174f7a3,505,基于Python的人脸识别技术综述,杜小甫; 黄兴晗; 刘沂杰,电子测试,2021-08-15,期刊
+6512b3aa9ff18c0e2174f7a4,506,任务驱动模式应用于Python程序设计的教学探讨,贾凌,现代信息科技,2021-08-10,期刊
+6512b3aa9ff18c0e2174f7a5,507,一种基于Python的商品信息采集方法,骆魁永,无线互联科技,2021-08-10,期刊
+6512b3aa9ff18c0e2174f7a6,508,基于Python的学士学位论文线上评价数据的分析与统计研究,范雨轩; 孙杰; 周树功; 周庆平,信息与电脑(理论版),2021-08-10,期刊
+6512b3aa9ff18c0e2174f7a7,509,"MADLens, a python package for fast and differentiable non-Gaussian lensing simulations",Böhm V.;Feng Y.;Lee M.E.;Dai B.,Astronomy and Computing,2021-08-10,外文期刊
+6512b3aa9ff18c0e2174f7a8,510,后疫情时代《Python语言程序设计》线上教学的思与行,李莉; 严传波; 田翔华,电脑与信息技术,2021-08-09,期刊
+6512b3aa9ff18c0e2174f7a9,511,PyTheis—A Python Tool for Analyzing Pump Test Data,Chang Sun Woo;Memari Sama S.;Clement T. Prabhakar,Water,2021-08-09,外文期刊
+6512b3aa9ff18c0e2174f7aa,512,Python课程的混合教学模式研究,冯艳茹; 李攀,福建电脑,2021-08-06,期刊
+6512b3aa9ff18c0e2174f7ab,513,计算思维下项目驱动式的Python课程教学,袁小艳,福建电脑,2021-08-06,期刊
+6512b3aa9ff18c0e2174f7ac,514,项目式学习在Python程序教学的应用研究,王丹; 周维斌,福建电脑,2021-08-06,期刊
+6512b3aa9ff18c0e2174f7ad,515,基于Python爬虫技术的虚假数据溯源与途中过滤分析,王景,河南科技,2021-08-05,期刊
+6512b3aa9ff18c0e2174f7ae,516,Linear Models with Python,Lipovetsky Stan,Technometrics,2021-08-03,外文期刊
+6512b3aa9ff18c0e2174f7af,517,GridFree: a python package of imageanalysis for interactive grain counting and measuring,Hu Yang;Zhang Zhiwu,Plant Physiology,2021-08-03,外文期刊
+6512b3aa9ff18c0e2174f7b0,518,The Framework for Nonlocal Thermal Equilibrium Radiative Transfer in Python,Osborne Christopher M. J.;Milić Ivan,The Astrophysical Journal,2021-08-01,外文期刊
+6512b3aa9ff18c0e2174f7b1,519,OPFython: A Python implementation for Optimum-Path Forest,de Rosa Gustavo H.;Papa João P.,Software Impacts,2021-08-01,外文期刊
+6512b3aa9ff18c0e2174f7b2,520,"Effortless extraction of individual lipid moieties from lipidomics datasets: Liputils, a Python module",Manzini S.;Busnelli M.;Colombo A.;Kiamehr M.;Chiesa G.,Atherosclerosis,2021-08-01,外文期刊
+6512b3aa9ff18c0e2174f7b3,521,PO-1733 Python application to convert six shifts from image CBCT guidance into a singular correction,Valdivielso Lopez T.;Navarro D.;Ambroa E.;Infestas A.;Lizondo M.;Ramirez A.;García-Miguel J.;Colomer M.,Radiotherapy and Oncology,2021-08-01,外文期刊
+6512b3aa9ff18c0e2174f7b4,522,关于TclTK和Python编程在路噪仿真后处理的自动化应用,曾军; 何兴凤; 莫贵文,汽车实用技术,2021-07-30,期刊
+6512b3aa9ff18c0e2174f7b5,523,基于Python语言的财务评价软件开发与应用,陈颢; 李惠; 门峰,建筑经济,2021-07-30,期刊
+6512b3aa9ff18c0e2174f7b6,524,基于Python语言的数字万用表自动校准系统的研究,朱世博,计量与测试技术,2021-07-30,期刊
+6512b3aa9ff18c0e2174f7b7,525,Fast evaluation of finite element weak forms using python tensor contraction packages,Cimrman Robert,Advances in Engineering Software,2021-07-30,外文期刊
+6512b3aa9ff18c0e2174f7b8,526,The Grids Python Tool for Querying Spatiotemporal Multidimensional Water Data,Hales Riley Chad;Nelson Everett  James;Williams Gustavious P.;Jones Norman;Ames Daniel P.;Jones J. Enoch,Water,2021-07-29,外文期刊
+6512b3aa9ff18c0e2174f7b9,527,OpenAI debuts Python-based Triton for GPU-powered machine learning,Serdar Yegulalp,InfoWorld.com,2021-07-29,外文期刊
+6512b3aa9ff18c0e2174f7ba,528,基于Python语言铣削封闭区域的下刀算法,成建峰; 赵猛,金属加工(冷加工),2021-07-28,期刊
+6512b3aa9ff18c0e2174f7bb,529,6 stellar libraries for profiling Python code,Serdar Yegulalp,InfoWorld.com,2021-07-28,外文期刊
+6512b3aa9ff18c0e2174f7bc,530,"icepack: a new glacier flow modeling package in Python, version 1.0",Shapero Daniel R.;Badgeley Jessica A.;Hoffman Andrew O.;Joughin Ian R.,Geoscientific Model Development,2021-07-26,外文期刊
+6512b3aa9ff18c0e2174f7bd,531,任务驱动视角下的“Python语言”学习方法研究,林良鹏; 席二辉,无线互联科技,2021-07-25,期刊
+6512b3aa9ff18c0e2174f7be,532,基于Python的信息智能处理的研究与实践,李进豪; 李树凯,现代计算机,2021-07-25,期刊
+6512b3aa9ff18c0e2174f7bf,533,基于案例的Python课程教学研究——以网络爬虫和数据可视化教学内容为例,杨艳霞; 周冰; 朱倩,信息与电脑(理论版),2021-07-25,期刊
+6512b3aa9ff18c0e2174f7c0,534,基于Python的个性化教学资源分享平台,宋永生; 黄蓉美,现代信息科技,2021-07-25,期刊
+6512b3aa9ff18c0e2174f7c1,535,Python语言程序设计中的课程思政探索,张翼凌; 李缙; 张宇翔,中国教育技术装备,2021-07-25,期刊
+6512b3aa9ff18c0e2174f7c2,536,SMUTHI: A python package for the simulation of light scattering by multiple particles near or between planar interfaces,Egel Amos;Czajkowski Krzysztof M.;Theobald Dominik;Ladutenko Konstantin;Kuznetsov Alexey S.;Pattelli Lorenzo,Journal of Quantitative Spectroscopy and Radiative Transfer,2021-07-22,外文期刊
+6512b3aa9ff18c0e2174f7c3,537,"Sharing An Open Stimulation System for Auditory EEG experiments using Python, Raspberry Pi and HifiBerry.",Corneyllie Alexandra;Perrin Fabien;Heine Lizette,eNeuro,2021-07-22,外文期刊
+6512b3aa9ff18c0e2174f7c4,538,Python与Rslogix5000+PLC的通信研究,贾巧辉,工业控制计算机,2021-07-21,期刊
+6512b3aa9ff18c0e2174f7c5,539,基于Python的汽车安全气囊跌落实验数据分析,陈昕; 阮永娇; 曹景胜; 陈娅鑫; 孙承臻,辽宁工业大学学报(自然科学版),2021-07-21,期刊
+6512b3aa9ff18c0e2174f7c6,540,6 essential Python tools for data science—now improved,Serdar Yegulalp,InfoWorld.com,2021-07-21,外文期刊
+6512b3aa9ff18c0e2174f7c7,541,KinZ an azure kinect toolkit for Python and Matlab,Terven Juan R.;Córdova Esparza Diana M.,Science of Computer Programming,2021-07-19,外文期刊
+6512b3aa9ff18c0e2174f7c8,542,Vehicle Energy Consumption in Python (VencoPy): Presenting and Demonstrating an Open-Source Tool to Calculate Electric Vehicle Charging Flexibility †,Wulff Niklas;Miorelli Fabia;Gils Hans Christian;Jochem Patrick,Energies,2021-07-19,外文期刊
+6512b3aa9ff18c0e2174f7c9,543,Efficient Space–Time Reduced Order Model for Linear Dynamical Systems in Python Using Less than 120 Lines of Code,Kim Youngkyu;Wang Karen;Choi Youngsoo,Mathematics,2021-07-19,外文期刊
+6512b3aa9ff18c0e2174f7ca,544,"AutoDock Vina 1.2.0: New Docking Methods, Expanded Force Field, and Python Bindings.",Eberhardt Jerome;SantosMartins Diogo;Tillack Andreas F;Forli Stefano,Journal of chemical information and modeling,2021-07-19,外文期刊
+6512b3aa9ff18c0e2174f7cb,545,A Python-based programming language for high-performance computational genomics.,Shajii Ariya;Numanagić Ibrahim;Leighton Alexander T;Greenyer Haley;Amarasinghe Saman;Berger Bonnie,Nature biotechnology,2021-07-19,外文期刊
+6512b3aa9ff18c0e2174f7cc,546,Diffusional Kurtosis Imaging in the Diffusion Imaging in Python Project,Henriques Rafael Neto;Correia Marta M.;Marrale Maurizio;Huber Elizabeth;Kruper John;Koudoro Serge;Yeatman Jason D.;Garyfallidis Eleftherios;Rokem Ariel,Frontiers in Human Neuroscience,2021-07-19,外文期刊
+6512b3aa9ff18c0e2174f7cd,547,Core Imaging Library - Part I: a versatile Python framework for tomographic imaging,Jørgensen J S;Ametova E;Burca G;Fardell G;Papoutsellis E;Pasca E;Thielemans K;Turner M;Warr R;Lionheart W R B;Withers P J,Philosophical Transactions of the Royal Society A,2021-07-18,外文期刊
+6512b3aa9ff18c0e2174f7ce,548,InletTracker: An open-source Python toolkit for historic and near real-time monitoring of coastal inlets from Landsat and Sentinel-2,Heimhuber Valentin;Vos Kilian;Fu Wanru;Glamore William,Geomorphology,2021-07-18,外文期刊
+6512b3aa9ff18c0e2174f7cf,549,cij: A Python code for quasiharmonic thermoelasticity,Luo Chenxing;Deng Xin;Wang Wenzhong;Shukla Gaurav;Wu Zhongqing;Wentzcovitch Renata M.,Computer Physics Communications,2021-07-18,外文期刊
+6512b3aa9ff18c0e2174f7d0,550,X‐Light: an open‐source software written in Python to determine the residual stress by X‐ray diffraction,Pham TuQuocSang;Geandier Guillaume;RatelRamond Nicolas;Mareau Charles;Malard Benoit,Journal of Applied Crystallography,2021-07-16,外文期刊
+6512b3af9ff18c0e2174f7d1,551,fv3gfs-wrapper: a Python wrapper of the FV3GFS atmospheric model,McGibbon Jeremy;Brenowitz Noah D.;Cheeseman Mark;Clark Spencer K.;Dahm Johann P. S.;Davis Eddie C.;Elbert Oliver D.;George Rhea C.;Harris Lucas M.;Henn Brian;Kwa Anna;Perkins W. Andre;Watt Meyer Oliver;Wicky Tobias F.;Bretherton Christopher S.;Fuhrer Oliver,Geoscientific Model Development,2021-07-16,外文期刊
+6512b3af9ff18c0e2174f7d2,552,Python在智能化运维中的运用,杨帆,电子技术与软件工程,2021-07-15,期刊
+6512b3af9ff18c0e2174f7d3,553,递进式教学法在Python程序设计中的应用,张婷燕; 王剑宇; 卢爱臣,电脑知识与技术,2021-07-15,期刊
+6512b3af9ff18c0e2174f7d4,554,Python数据分析工具在工程材料在途数据分析中的应用,刘加伟;王后伟;石占磊;吕学良;张高尉;葛楚琳;孙燕,石油和化工设备,2021-07-15,期刊
+6512b3af9ff18c0e2174f7d5,555,基于Python与MATLAB混合编程的文本分类应用案例设计,刘卫国; 陈斌,软件导刊,2021-07-15,期刊
+6512b3af9ff18c0e2174f7d6,556,Python程序设计课程思政方法与实践,代丹丹; 唐万梅,软件导刊,2021-07-15,期刊
+6512b3af9ff18c0e2174f7d7,557,Python的计算机软件应用技术分析,王栋,电子测试,2021-07-15,期刊
+6512b3af9ff18c0e2174f7d8,558,面向新工科的Python程序设计基础课程的建设,顾鸿虹; 杨娜; 张虹,现代计算机,2021-07-15,期刊
+6512b3af9ff18c0e2174f7d9,559,基于Python的雷达信号处理软件开发,李鹏利; 李兴成,火力与指挥控制,2021-07-15,期刊
+6512b3af9ff18c0e2174f7da,560,SPLICE-q: a Python tool for genome-wide quantification of splicing efficiency.,de Melo Costa Verônica R;Pfeuffer Julianus;Louloupi Annita;Ørom Ulf A V;Piro Rosario M,BMC bioinformatics,2021-07-15,外文期刊
+6512b3af9ff18c0e2174f7db,561,Learning Chemistry of Complex Reaction Systems via a Python First-Principles Reaction Rule Stencil (pReSt) Generator.,Gupta Udit;Vlachos Dionisios G,Journal of chemical information and modeling,2021-07-15,外文期刊
+6512b3af9ff18c0e2174f7dc,562,线上线下混合教学模式的Python课程改革,李峰; 常郝; 杨威,福建电脑,2021-07-12,期刊
+6512b3af9ff18c0e2174f7dd,563,Dyconnmap: Dynamic connectome mapping-A neuroimaging python module.,Marimpis Avraam D;Dimitriadis Stavros I;Goebel Rainer,Human brain mapping,2021-07-11,外文期刊
+6512b3af9ff18c0e2174f7de,564,"PySTACHIO: Python Single-molecule TrAcking stoiCHiometry Intensity and simulatiOn, a flexible, extensible, beginner-friendly and optimized program for analysis of single-molecule microscopy data",Shepherd Jack W;Higgins Ed J;J M Wollman Adam;Leake Mark C,Computational and Structural Biotechnology Journal,2021-07-10,外文期刊
+6512b3af9ff18c0e2174f7df,565,How to use the Python for loop,Serdar Yegulalp,InfoWorld.com,2021-07-07,外文期刊
+6512b3af9ff18c0e2174f7e0,566,基于Python与OpenCV的人像检测和识别的研究,黄子豪; 孙沐阳; 时田野,电子测试,2021-07-05,期刊
+6512b3af9ff18c0e2174f7e1,567,基于 Python 串口的三相交流电机控制系统,张浩; 张三林; 石绍兵; 李学斌; 彭浩,时代汽车,2021-07-05,期刊
+6512b3af9ff18c0e2174f7e2,568,基于Python的词云生成及优化研究——以“十四五”规划为例,汪言,电脑知识与技术,2021-07-05,期刊
+6512b3af9ff18c0e2174f7e3,569,偏远地区的线上高职信息化教学探索与实践——以《Python程序设计》为例,叶爱玲; 胡明; 刘力扬; 张俊,电脑知识与技术,2021-07-05,期刊
+6512b3af9ff18c0e2174f7e4,570,Correction to: Gravity and Magnetic Processing and Inversion Over the Mahallat Geothermal System Using Open Source Resources in Python,Vahid E. Ardestani;Dominique Fournier;Douglas W. Oldenburg,Pure and Applied Geophysics,2021-07-05,外文期刊
+6512b3af9ff18c0e2174f7e5,571,EasyIDP: A Python Package for Intermediate Data Processing in UAV-Based Plant Phenotyping,Wang Haozhou;Duan Yulin;Shi Yun;Kato Yoichiro;Ninomiya Seishi;Guo Wei,Remote Sensing,2021-07-03,外文期刊
+6512b3af9ff18c0e2174f7e6,572,PhyliCS: a Python library to explore scCNA data and quantify spatial tumor heterogeneity.,Montemurro Marilisa;Grassi Elena;Pizzino Carmelo Gabriele;Bertotti Andrea;Ficarra Elisa;Urgese Gianvito,BMC bioinformatics,2021-07-03,外文期刊
+6512b3af9ff18c0e2174f7e7,573,Water Data Explorer: An Open-Source Web Application and Python Library for Water Resources Data Discovery,Bustamante Giovanni Romero;Nelson Everett James;Ames Daniel P.;Williams Gustavious P.;Jones Norman L.;Boldrini Enrico;Chernov Igor;Sanchez Lozano Jorge Luis,Water,2021-07-02,外文期刊
+6512b3af9ff18c0e2174f7e8,574,Python课程中数字化游戏教学培养高中生计算思维的实证研究,张学军; 岳彦龙; 梁屿藩,电化教育研究,2021-07-01,期刊
+6512b3af9ff18c0e2174f7e9,575,"Kate Egan and Jeffrey Andrew Weinstock, And Now for Something Completely Different: Critical Approaches to Monty Python",,Journal of British Cinema and Television,2021-07-01,外文期刊
+6512b3af9ff18c0e2174f7ea,576,eeglib: A Python module for EEG feature extraction,Cabañero-Gomez Luis;Hervas Ramon;Gonzalez Ivan;Rodriguez-Benitez Luis,SoftwareX,2021-07-01,外文期刊
+6512b3af9ff18c0e2174f7eb,577,pyGLLE: A Python toolkit for solving the generalized Lugiato–Lefever equation,Melchert Oliver;Demircan Ayhan,SoftwareX,2021-07-01,外文期刊
+6512b3af9ff18c0e2174f7ec,578,"Analysing the resilience of agricultural production systems with ResiPy, the Python production resilience estimation package",Zampieri Matteo;Toreti Andrea;Ceglar Andrej;De Palma Pierluca;Chatzopoulos Thomas;Michetti Melania,SoftwareX,2021-07-01,外文期刊
+6512b3af9ff18c0e2174f7ed,579,impulseest: A Python package for non-parametric impulse response estimation with input–output data,Fiorio Luan Vinícius;Remes Chrystian Lenon;de Novaes Yales Rômulo,SoftwareX,2021-07-01,外文期刊
+6512b3af9ff18c0e2174f7ee,580,Influence of surface morphology and internal structure on the mechanical properties and tribological response of Boa Red Tail and Python Regius snake skin,Toro A.;Abdel-Aal H.A.;Zuluaga E.;Cuervo P.;Ballesteros L.M.;Sánchez J.C.;Rudas J.S.;Isaza C.;Misiolek W.Z.,Journal of the Mechanical Behavior of Biomedical Materials,2021-07-01,外文期刊
+6512b3af9ff18c0e2174f7ef,581,"Update 1.1 to “pysimm: A python package for simulation of molecular systems”, (PII: S2352711016300395)",Demidov Alexander G.;Perera B. Lakshitha A.;Fortunato Michael E.;Lin Sibo;Colina Coray M.,SoftwareX,2021-07-01,外文期刊
+6512b3af9ff18c0e2174f7f0,582,Movie recommendation system using clustering mining with Python,Sadhasivam Jayakumar;Cera Juan Manuel;Deepa R;Satheshkumar K;Muthukumaran V;Satheesh Kumar S;Angeline Kavitha M,Journal of Physics: Conference Series,2021-07-01,外文期刊
+6512b3af9ff18c0e2174f7f1,583,A synthetic data generation procedure for univariate circular data with various outliers scenarios using Python programming language,Zulkipli N S;Satari S Z;Wan Yusoff W N S,Journal of Physics: Conference Series,2021-07-01,外文期刊
+6512b3af9ff18c0e2174f7f2,584,DIETERpy: A Python framework for the Dispatch and Investment Evaluation Tool with Endogenous Renewables,Gaete-Morales Carlos;Kittel Martin;Roth Alexander;Schill Wolf-Peter,SoftwareX,2021-07-01,外文期刊
+6512b3b09ff18c0e2174f7f3,585,一种基于图形界面的Python代码自动生成软件的设计与实现,宋雅娟,长春大学学报,2021-06-30,期刊
+6512b3b09ff18c0e2174f7f4,586,基于Python和西门子S7系列PLC的液压机过程数据采集系统设计,谭波,锻压装备与制造技术,2021-06-30,期刊
+6512b3b09ff18c0e2174f7f5,587,基于Python的图像处理技术在鱼类尺寸测量中的应用,林在凡; 郭敬蓉; 洪晓林; 陈登建,福建农机,2021-06-30,期刊
+6512b3b09ff18c0e2174f7f6,588,基于Python的Crispr/Cas9 Oligos批量生成器,彭景; 许杰; 程威; 尹重超; 陈恒玲,绿色科技,2021-06-30,期刊
+6512b3b09ff18c0e2174f7f7,589,Physcraper: a Python package for continually updated phylogenetic trees using the Open Tree of Life.,SánchezReyes Luna L;Kandziora Martha;McTavish Emily Jane,BMC bioinformatics,2021-06-29,外文期刊
+6512b3b09ff18c0e2174f7f8,590,Glycowork: A Python package for glycan data science and machine learning.,Thomès Luc;Burkholz Rebekka;Bojar Daniel,Glycobiology,2021-06-29,外文期刊
+6512b3b09ff18c0e2174f7f9,591,基于Python爬取POI在城市地理国情监测中的应用,方德涛,地理空间信息,2021-06-28,期刊
+6512b3b09ff18c0e2174f7fa,592,基于Python的ArcGIS(Arcpy)数据检查技术应用,赵军鹏; 刘军,河北林业科技,2021-06-28,期刊
+6512b3b09ff18c0e2174f7fb,593,运用Python编程计算减压孔板孔口直径的研究,李云; 马慧俊,工业用水与废水,2021-06-28,期刊
+6512b3b09ff18c0e2174f7fc,594,基于Python和ArcPy的不动产数据入库技术与运用,秦荣波; 代林海,测绘技术装备,2021-06-25,期刊
+6512b3b09ff18c0e2174f7fd,595,基于Abaqus/Python的梳理纤维网三维建模,陈小明;李晨阳;谢军波;张一帆;李皎;陈利,天津工业大学学报,2021-06-25,期刊
+6512b3b09ff18c0e2174f7fe,596,基于Python的文本数据增强系统设计与实现,韩会珍; 刘立波,宁夏工程技术,2021-06-25,期刊
+6512b3b09ff18c0e2174f7ff,597,网络资源辅助下的“Python程序设计”教学研究,彭庾鸿,无线互联科技,2021-06-25,期刊
+6512b3b09ff18c0e2174f800,598,考虑累积损伤的钢结构楼层地震损伤因子计算的Python语言实现,白润山; 华书建; 董齐辉; 郝勇; 马子彦,河北建筑工程学院学报,2021-06-25,期刊
+6512b3b09ff18c0e2174f801,599,"Introductory data science across disciplines, using Python, case studies, and industry consulting projects",Lasser Jana;Manik Debsankha;Silbersdorff Alexander;Säfken Benjamin;Kneib Thomas,Teaching Statistics,2021-06-25,外文期刊
+6512b3b09ff18c0e2174f802,600,PyPhase  a Python package for X-ray phase imaging,Langer Max;Zhang Yuhe;Figueirinhas Diogo;Forien Baptiste Jean;Mom Kannara;Mouton Claire;Mokso Rajmund;Villanueva Perez Pablo,J Synchrotron Rad,2021-06-25,外文期刊
+6512b3b59ff18c0e2174f803,601,基于Python实现地理空间数据批处理技术探讨及实现——以“多规合一”总体规划数据空间叠加分析为例,颜振宇; 陈凯峥,测绘与空间地理信息,2021-06-24,期刊
+6512b3b59ff18c0e2174f804,602,OpenMoist: A Python code for transient moisture transfer analysis,Melchor-Placencia Carlos;Málaga-Chuquitaype Christian,SoftwareX,2021-06-24,外文期刊
+6512b3b59ff18c0e2174f805,603,Cnerator: A Python application for the controlled stochastic generation of standard C source code,Ortin Francisco;Escalada Javier,SoftwareX,2021-06-24,外文期刊
+6512b3b59ff18c0e2174f806,604,pyEIA: A Python-based framework for data analysis of electrochemical methods for immunoassays,Vishart Jonas Lynge;Castillo-León Jaime;Svendsen Winnie E.,SoftwareX,2021-06-24,外文期刊
+6512b3b59ff18c0e2174f807,605,APG: A novel python-based ArcGIS toolbox to generate absence-datasets for geospatial studies,Naghibi Seyed Amir;Hashemi Hossein;Pradhan Biswajeet,Geoscience Frontiers,2021-06-24,外文期刊
+6512b3b59ff18c0e2174f808,606,DockOnSurf: A Python Code for the High-Throughput Screening of Flexible Molecules Adsorbed on Surfaces.,Martí Carles;Blanck Sarah;Staub Ruben;Loehlé Sophie;Michel Carine;Steinmann Stephan N,Journal of chemical information and modeling,2021-06-23,外文期刊
+6512b3b59ff18c0e2174f809,607,Biomedical and clinical English model packages for the Stanza Python NLP library.,Zhang Yuhao;Zhang Yuhui;Qi Peng;Manning Christopher D;Langlotz Curtis P,Journal of the American Medical Informatics Association : JAMIA,2021-06-22,外文期刊
+6512b3b59ff18c0e2174f80a,608,面向应用型人才培养的Python在线开放课程群资源结构模型研究,吴海丽,安徽电子信息职业技术学院学报,2021-06-20,期刊
+6512b3b59ff18c0e2174f80b,609,使用Python的EEL库开发树莓派可视化程序的研究,杨杰,电子质量,2021-06-20,期刊
+6512b3b59ff18c0e2174f80c,610,基于Python的Genesio混沌比例投影同步控制实验,赵海滨; 于清文,中国现代教育装备,2021-06-20,期刊
+6512b3b59ff18c0e2174f80d,611,基于Python的汽车CAN总线报文格式转换系统的设计与实现,刘淞铭;马洪彦;王贵山;佟新禹;张成庆;王家雁,汽车电器,2021-06-20,期刊
+6512b3b59ff18c0e2174f80e,612,利用Python改进性状分离比模拟实验,许凡,生物学通报,2021-06-20,期刊
+6512b3b59ff18c0e2174f80f,613,An Innovative Grey Approach for Group Multi-Criteria Decision Analysis Based on the Median of Ratings by Using Python,Stanujkić Dragiša;Karabašević Darjan;Popović Gabrijela;Stanimirović Predrag S.;Smarandache Florentin;Saračević Muzafer;Ulutaş Alptekin;Katsikis Vasilios N.,Axioms,2021-06-19,外文期刊
+6512b3b59ff18c0e2174f810,614,基于Python的ABAQUS有限元强度折减法程序在边坡稳定性分析中的应用,荣光旭; 彭艳; 田凯,中北大学学报(自然科学版),2021-06-18 11:28,期刊
+6512b3b59ff18c0e2174f811,615,MechElastic: A Python Library for Analysis of Mechanical and Elastic Properties of Bulk and 2D Materials,Singh Sobhit;Lang Logan;Dovale Farelo Viviana;Herath Uthpala;Tavazohi Pedram;Coudert François Xavier;Romero Aldo H.,Computer Physics Communications,2021-06-18,外文期刊
+6512b3b59ff18c0e2174f812,616,"TorchIO: a Python library for efficient loading, preprocessing, augmentation and patch-based sampling of medical images in deep learning",Pérez García Fernando;Sparks Rachel;Ourselin Sébastien,Computer Methods and Programs in Biomedicine,2021-06-17,外文期刊
+6512b3b59ff18c0e2174f813,617,Python表格分析工具的设计与实现,彭光年; 赖伟锴,福建电脑,2021-06-16,期刊
+6512b3b59ff18c0e2174f814,618,District-Heating-Grid Simulation in Python: DiGriPy,Vorspel Lena;Bücker Jens,Computation,2021-06-16,外文期刊
+6512b3b59ff18c0e2174f815,619,"synergy: a Python library for calculating, analyzing and visualizing drug combination synergy",Wooten David J;Albert Réka,Bioinformatics,2021-06-16,外文期刊
+6512b3b59ff18c0e2174f816,620,ClusTCR: a Python interface for rapid clustering of large sets of CDR3 sequences with unknown antigen specificity.,Valkiers Sebastiaan;Van Houcke Max;Laukens Kris;Meysman Pieter,"Bioinformatics (Oxford, England)",2021-06-16,外文期刊
+6512b3b59ff18c0e2174f817,621,Get started with Anaconda Python,Serdar Yegulalp,InfoWorld.com,2021-06-16,外文期刊
+6512b3b59ff18c0e2174f818,622,基于Python语言的钢铁企业管理平台开发与应用,尹周军,天津冶金,2021-06-15,期刊
+6512b3b59ff18c0e2174f819,623,面向人工智能的Python语言教学探索,葛动元; 靳龙; 王晨; 刘恩辰; 罗海萍,电气电子教学学报,2021-06-15,期刊
+6512b3b59ff18c0e2174f81a,624,基于Python的园区网络自动化运维,锁泉凝,长江信息通信,2021-06-15,期刊
+6512b3b59ff18c0e2174f81b,625,改进的多项朴素贝叶斯分类算法和Python实现,陈翠娟,景德镇学院学报,2021-06-15,期刊
+6512b3b59ff18c0e2174f81c,626,基于Python设计的TEQC数据质量可视化分析软件,吴家杰; 王挺; 黄尔双,全球定位系统,2021-06-15,期刊
+6512b3b59ff18c0e2174f81d,627,Python语言在天气预报预警业务自动化中的应用,王晓雪; 韩冰; 张月; 吴岩; 马国忠,黑龙江气象,2021-06-15,期刊
+6512b3b59ff18c0e2174f81e,628,Artificial Intelligence and Machine Learning: Python Based Face and Image Recognition,Vishaal Chandrasekar,Journal of Research in Science and Engineering,2021-06-15,外文期刊
+6512b3b59ff18c0e2174f81f,629,PAX2GRAPHML: a Python library for large-scale regulation network analysis using BIOPAX.,Moreews François;Simon Hugo;Siegel Anne;Gondret Florence;Becker Emmanuelle,"Bioinformatics (Oxford, England)",2021-06-15,外文期刊
+6512b3b59ff18c0e2174f820,630,GPU-accelerated real-time reconstruction in Python of three-dimensional datasets from structured illumination microscopy with hexagonal patterns,Gong Hai;Guo Wenjun;Neil Mark A A,Philosophical Transactions of the Royal Society A,2021-06-14,外文期刊
+6512b3b59ff18c0e2174f821,631,"Excel, Python, and the future of data science",Matt Asay,InfoWorld.com,2021-06-14,外文期刊
+6512b3b59ff18c0e2174f822,632,基于Python的航空发动机仿真平台开发,肖力,计算机应用与软件,2021-06-12,期刊
+6512b3b59ff18c0e2174f823,633,基于Python的计算机软件应用技术研究,李永刚,无线互联科技,2021-06-10,期刊
+6512b3b59ff18c0e2174f824,634,基于Python的教学视频弹幕分析,宋永生; 黄蓉美,现代信息科技,2021-06-10,期刊
+6512b3b59ff18c0e2174f825,635,A Python Toolbox for Unbiased Statistical Analysis of Fluorescence Intermittency of Multilevel Emitters.,Palstra Isabelle M;Koenderink A Femius,"The journal of physical chemistry. C, Nanomaterials and interfaces",2021-06-10,外文期刊
+6512b3b59ff18c0e2174f826,636,基于Python的热图像处理技术研究,陆承佳,电脑与信息技术,2021-06-08,期刊
+6512b3b59ff18c0e2174f827,637,Oral Abscess Caused by Chryseobacterium indologenes in Ball Python (Python regius); A Case Report,Tamai Iradj Ashrafi;Pakbin Babak;Kafi Zahra Ziafati;Brück Wolfram Manuel,Antibiotics,2021-06-08,外文期刊
+6512b3b59ff18c0e2174f828,638,Contrast  a lightweight Python framework for beamline orchestration and data acquisition,Bjrling Alexander;Weninger Clemens;Kahnt Maik;Kalbfleisch Sebastian;Johansson Ulf;Sala Simone;Lenrick Filip;Thnell Karina,J Synchrotron Rad,2021-06-08,外文期刊
+6512b3b59ff18c0e2174f829,639,Python Battery Mathematical Modelling (PyBaMM),Sulzer Valentin;Marquis Scott G.;Timms Robert;Robinson Martin;Chapman S. Jon,Journal of Open Research Software,2021-06-08,外文期刊
+6512b3b59ff18c0e2174f82a,640,stk: An extendable Python framework for automated molecular and supramolecular structure assembly and discovery.,Turcani Lukas;Tarzia Andrew;Szczypiński Filip T;Jelfs Kim E,The Journal of chemical physics,2021-06-07,外文期刊
+6512b3b59ff18c0e2174f82b,641,IBM Python toolkit measures AI uncertainty,Paul Krill,InfoWorld.com,2021-06-07,外文期刊
+6512b3b59ff18c0e2174f82c,642,Shooting the Numerical Solution of Moisture Flow Equation with Root Water Uptake Models: A Python Tool,Fabio V. Difonzo;Costantino Masciopinto;Michele Vurro;Marco Berardi,Water Resources Management,2021-06-03,外文期刊
+6512b3b59ff18c0e2174f82d,643,PyXtalFF: a python library for automated force field generation,Yanxon Howard;Zagaceta David;Tang Binh;Matteson David S;Zhu Qiang,Machine Learning: Science and Technology,2021-06-01,外文期刊
+6512b3b59ff18c0e2174f82e,644,pyrpipe: a Python package for RNA-Seq workflows.,Singh Urminder;Li Jing;Seetharam Arun;Wurtele Eve Syrkin,NAR genomics and bioinformatics,2021-06-01,外文期刊
+6512b3b59ff18c0e2174f82f,645,Optimal Option For Agricultural Electric Network Based On Python Programming Reconstruction Order Determination,Veselova N M;Brenina T P;Tokarev K E;Zelyakovskiy D V,IOP Conference Series: Earth and Environmental Science,2021-06-01,外文期刊
+6512b3b59ff18c0e2174f830,646,Implementation of Elliptic Net Scalar Multiplication Computation for NIST P-192 Curve using Python,Razali Zuren;Muslim Norliana;Kahar Saliyah,Journal of Physics: Conference Series,2021-06-01,外文期刊
+6512b3b59ff18c0e2174f831,647,ordpy: A Python package for data analysis with permutation entropy and ordinal network methods.,Pessa Arthur A B;Ribeiro Haroldo V,"Chaos (Woodbury, N.Y.)",2021-06-01,外文期刊
+6512b3b59ff18c0e2174f832,648,Script for resilience analysis in energy systems: Python programming code and partial associated data of four cogeneration plants,da Silva Fellipe Sartori;Matelli José Alexandre,Data in Brief,2021-06-01,外文期刊
+6512b3b59ff18c0e2174f833,649,CycFlowDec: A Python module for decomposing flow networks using simple cycles,Bernardi Austen;Swanson Jessica M.J.,SoftwareX,2021-06-01,外文期刊
+6512b3b59ff18c0e2174f834,650,OCTID: a one-class learning-based Python package for tumor image detection.,Wang Yanan;Yang Litao;Webb Geoffrey I;Ge Zongyuan;Song Jiangning,"Bioinformatics (Oxford, England)",2021-06-01,外文期刊
+6512b3ba9ff18c0e2174f835,651,Gravity and Magnetic Processing and Inversion Over the Mahallat Geothermal System Using Open Source Resources in Python,Vahid E. Ardestani;Dominique Fourier;Douglas W. Oldenburg,Pure and Applied Geophysics,2021-06-01,外文期刊
+6512b3ba9ff18c0e2174f836,652,Embo: a Python package for empirical data analysis using the Information Bottleneck,Piasini Eugenio;Filipowicz Alexandre L. S.;Levine Jonathan;Gold Joshua I.,Journal of Open Research Software,2021-05-31,外文期刊
+6512b3ba9ff18c0e2174f837,653,Studying the effects of teaching programming to lower secondary school students with a serious game: a case study with Python and CodeCombat,Chrysoula Kroustalli;Stelios Xinogalos,Education and Information Technologies,2021-05-31,外文期刊
+6512b3ba9ff18c0e2174f838,654,Curvit: An open-source Python package to generate light curves from UVIT data,Joseph P.;Stalin C. S.;Tandon S. N.;Ghosh S. K.,Journal of Astrophysics and Astronomy,2021-05-29,外文期刊
+6512b3ba9ff18c0e2174f839,655,基于Python的地理信息数据属性检查软件设计与实现,崔文化,地理空间信息,2021-05-26,期刊
+6512b3ba9ff18c0e2174f83a,656,IoT for Smart Environment Monitoring Based on Python: A Review,Saad Hikmat Haji;Amira B. Sallow,Asian Journal of Research in Computer Science,2021-05-26,外文期刊
+6512b3ba9ff18c0e2174f83b,657,基于Python的人脸识别技术应用研究,丁晴,数字技术与应用,2021-05-25,期刊
+6512b3ba9ff18c0e2174f83c,658,抵御控制流分析的Python程序混淆算法,刘建,数字技术与应用,2021-05-25,期刊
+6512b3ba9ff18c0e2174f83d,659,基于Python的金融时间序列ARIMA模型教学,孙义; 周陇陇,现代信息科技,2021-05-25,期刊
+6512b3ba9ff18c0e2174f83e,660,Accurate 3D fireball trajectory and orbit calculation using the 3D-firetoc automatic Python code,Peña-Asensio Eloy;Trigo-Rodríguez Josep Maria;Gritsevich Maria;Rimola Albert,Monthly Notices of the Royal Astronomical Society,2021-05-25,外文期刊
+6512b3ba9ff18c0e2174f83f,661,SemSegLoss: A python package of loss functions for semantic segmentation,Jadon Shruti,Software Impacts,2021-05-24,外文期刊
+6512b3ba9ff18c0e2174f840,662,General Purpose Optimization Library (GPOL): A Flexible and Efficient Multi-Purpose Optimization Library in Python,Bakurov Illya;Buzzelli Marco;Castelli Mauro;Vanneschi Leonardo;Schettini Raimondo,Applied Sciences,2021-05-23,外文期刊
+6512b3ba9ff18c0e2174f841,663,BioVenn – an R and Python package for the comparison and visualization of biological lists using area-proportional Venn diagrams,Datta Gargi;Hulsen Tim,Data Science,2021-05-21,外文期刊
+6512b3ba9ff18c0e2174f842,664,基于Python的信号与系统实验教学改革与实践,陈娟; 陈雯; 石飞; 王建英; 胡英,实验技术与管理,2021-05-20 14:59,期刊
+6512b3ba9ff18c0e2174f843,665,Python语言程序设计课程教学实践,毛焱颖; 张羽; 焦柳丹,电子技术,2021-05-20,期刊
+6512b3ba9ff18c0e2174f844,666,基于Python语言的数据挖掘课程的建设与研究,杨军; 张岳; 刘燕峰,科技风,2021-05-20,期刊
+6512b3ba9ff18c0e2174f845,667,Python动画辅助大数定律的数学实验,孙晓玲; 王宁,合肥师范学院学报,2021-05-20,期刊
+6512b3ba9ff18c0e2174f846,668,Malicious attacks on the web and crawling of information data by Python technology,Fu Rui;Li Xinyu,Security and Privacy,2021-05-20,外文期刊
+6512b3ba9ff18c0e2174f847,669,基于Python和ABAQUS的钻机摆动机构拓扑优化设计,钟自成; 邵俊杰; 李旺年; 张宁,煤矿机械,2021-05-19,期刊
+6512b3ba9ff18c0e2174f848,670,udkm1Dsim - A Python toolbox for simulating 1D ultrafast dynamics in condensed matter,Schick Daniel,Computer Physics Communications,2021-05-19,外文期刊
+6512b3ba9ff18c0e2174f849,671,How to use Python’s py launcher for Windows,Serdar Yegulalp,InfoWorld.com,2021-05-19,外文期刊
+6512b3ba9ff18c0e2174f84a,672,基于PTA平台的“Python程序设计基础”课程探索与实践,陈丹; 肖艳萍,智能物联技术,2021-05-18,期刊
+6512b3ba9ff18c0e2174f84b,673,A python code for automatic construction of Fischer plots using proxy data.,Yang Daming;Huang Yongjian;Chen Zongyang;Huang Qinghua;Ren Yanguang;Wang Chengshan,Scientific reports,2021-05-18,外文期刊
+6512b3ba9ff18c0e2174f84c,674,MotifGenie: A Python Application for Searching Transcription Factor Binding Sequences Using ChIP-Seq Datasets.,Oguztuzun Cerag;Yasar Pelin;Yavuz Kerim;Muyan Mesut;Can Tolga,"Bioinformatics (Oxford, England)",2021-05-17,外文期刊
+6512b3ba9ff18c0e2174f84d,675,基于Python的“模式识别导论”双语教学与实践,陈思宝,电脑知识与技术,2021-05-15,期刊
+6512b3ba9ff18c0e2174f84e,676,基于Python的地球站上行设备网管设计和实现,黄展刚; 李一帆,广播与电视技术,2021-05-15,期刊
+6512b3ba9ff18c0e2174f84f,677,Python语言程序设计课程思政的探讨,王霞; 谢春丽,江苏师范大学学报(自然科学版),2021-05-15,期刊
+6512b3ba9ff18c0e2174f850,678,Writing python programs to map alleles related to genetic disease.,Allbee Quinn;Barber Robert,Biochemistry and molecular biology education : a bimonthly publication of the In;ternational Union of Biochemistry and Molecular Biology,2021-05-15,外文期刊
+6512b3ba9ff18c0e2174f851,679,"Python Language Training System Based on MFCC, VQ, Variational Coefficient and KNTM Algorithm",Leandro Daniel Lau Alfonso;Sergio Suarez Guerra;Jose Luis Oropeza Rodriguez;Roberto Rodriguez Morales;Gustavo Asumu Mboro Nchama,Mathematics and Computer Science,2021-05-14,外文期刊
+6512b3ba9ff18c0e2174f852,680,A Python Package to Calculate the OLR-Based Index of the Madden- Julian-Oscillation (OMI) in Climate Science and Weather Forecasting,Hoffmann Christoph G.;Kiladis George N.;Gehne Maria;Von Savigny Christian,Journal of Open Research Software,2021-05-14,外文期刊
+6512b3ba9ff18c0e2174f853,681,Python’s creators unveil speedup plans for Python,Serdar Yegulalp,InfoWorld.com,2021-05-13,外文期刊
+6512b3ba9ff18c0e2174f854,682,A Survey of Husbandry and Breeding Techniques in the Ball Python (Python regius) Pet Trade,Cacioppo Joseph A.;Perry Sean M.;Rockwell Kelly;Mitchell Mark A.,Journal of Herpetological Medicine and Surgery,2021-05-12,外文期刊
+6512b3ba9ff18c0e2174f855,683,11 tips for speeding up Python programs,Serdar Yegulalp,InfoWorld.com,2021-05-12,外文期刊
+6512b3ba9ff18c0e2174f856,684,Pymrio – A Python Based Multi-Regional Input-Output Analysis Toolbox,Stadler Konstantin,Journal of Open Research Software,2021-05-11,外文期刊
+6512b3ba9ff18c0e2174f857,685,Illustrating Elementary NMR Concepts through Simple Interactive Python Programs,Sengupta Ishita,JOURNAL OF CHEMICAL EDUCATION,2021-05-11,外文期刊
+6512b3ba9ff18c0e2174f858,686,基于Python的地下水模拟研究进展与应用,魏亚强; 陈坚; 张铎; 李璐,计算机技术与发展,2021-05-10,期刊
+6512b3ba9ff18c0e2174f859,687,Python软件在求解线性非齐次微分方程中的应用,赵禹琦,集成电路应用,2021-05-10,期刊
+6512b3ba9ff18c0e2174f85a,688,面向网络安全与执法专业的Python程序设计语言课程内容改革研究,庄海燕,电脑与电信,2021-05-10,期刊
+6512b3ba9ff18c0e2174f85b,689,基于Python的RIP路由协议安全性研究,方欣,电脑与电信,2021-05-10,期刊
+6512b3ba9ff18c0e2174f85c,690,基于Python的国家社科基金项目爬虫的设计和实现——以贫困为主题的立项信息为例,熊国梁; 麦强盛,信息与电脑(理论版),2021-05-10,期刊
+6512b3ba9ff18c0e2174f85d,691,基于Python的招聘信息爬取和分析,文鹏; 袁小艳,信息与电脑(理论版),2021-05-10,期刊
+6512b3ba9ff18c0e2174f85e,692,基于Python的实验耗材查询系统设计与实现,潘德龙,信息与电脑(理论版),2021-05-10,期刊
+6512b3ba9ff18c0e2174f85f,693,OpenTree: A Python package for Accessing and Analyzing data from the Open Tree of Life.,McTavish Emily Jane;Sanchez Reyes Luna Luisa;Holder Mark T,Systematic biology,2021-05-10,外文期刊
+6512b3ba9ff18c0e2174f860,694,TAPsolver: A Python package for the simulation and analysis of TAP reactor experiments,Yonge Adam;Kunz M. Ross;Batchu Rakesh;Fang Zongtang;Issac Tobin;Fushimi Rebecca;Medford Andrew J.,Chemical Engineering Journal,2021-05-06,外文期刊
+6512b3ba9ff18c0e2174f861,695,pyRiverBed: A Python framework to generate synthetic riverbed topography for constant-width meandering rivers,Li Zhi;García Marcelo H.,Computers and Geosciences,2021-05-06,外文期刊
+6512b3ba9ff18c0e2174f862,696,"PyLESA: A Python modelling tool for planning-level Local, integrated, and smart Energy Systems Analysis",Lyden Andrew;Flett Graeme;Tuohy Paul G.,SoftwareX,2021-05-06,外文期刊
+6512b3ba9ff18c0e2174f863,697,Instagram open sources high-performance Python fork,Paul Krill,InfoWorld.com,2021-05-06,外文期刊
+6512b3ba9ff18c0e2174f864,698,Pyston project open sources its faster Python,Serdar Yegulalp,InfoWorld.com,2021-05-06,外文期刊
+6512b3ba9ff18c0e2174f865,699,高职院校《Python程序设计》课程中基于工单制的教学模式探索,李力,时代汽车,2021-05-05,期刊
+6512b3ba9ff18c0e2174f866,700,What’s new in Python 3.10,Serdar Yegulalp,InfoWorld.com,2021-05-05,外文期刊
